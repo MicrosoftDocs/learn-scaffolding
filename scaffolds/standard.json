@@ -1,0 +1,40 @@
+{
+  "moduleType": "standard",
+  "units":[
+    {
+      "type": "introduction",
+      "template":{
+        "content": "content-templates\\introduction.md",
+        "type": "file"
+      }
+    },
+    {
+      "type": "learning_content",
+      "template":{
+        "content": "content-templates\\learningContent.md",
+        "type": "file"
+      }
+    },
+    {
+      "type": "exercise",
+      "template":{
+        "content": "content-templates\\exercise.md",
+        "type": "file"
+      }
+    },
+    {
+      "type": "knowledge_check",
+      "template":{
+        "content": "content-templates\\knowledgeCheck.yml",
+        "type": "file"
+      }
+    },
+    {
+      "type": "Summary",
+      "template":{
+        "content": "content-templates\\summary.md",
+        "type": "file"
+      }
+    }
+  ]
+}

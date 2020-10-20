@@ -1,0 +1,40 @@
+{
+  "moduleType": "introduction",
+  "units":[
+    {
+      "type": "introduction",
+      "template":{
+        "content": "content-templates\\introduction.md",
+        "type": "file"
+      }
+    },
+    {
+      "type": "learning_content",
+      "template":{
+        "content": "content-templates\\whatIsProduct.md",
+        "type": "file"
+      }
+    },
+    {
+      "type": "learning_content",
+      "template":{
+        "content": "content-templates\\howProductWorks.md",
+        "type": "file"
+      }
+    },
+    {
+      "type": "learning_content",
+      "template":{
+        "content": "content-templates\\whenToUseProduct.md",
+        "type": "file"
+      }
+    },
+    {
+      "type": "Summary",
+      "template":{
+        "content": "content-templates\\summary.md",
+        "type": "file"
+      }
+    }
+  ]
+}
