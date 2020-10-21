@@ -3,38 +3,23 @@
   "units":[
     {
       "type": "introduction",
-      "template":{
-        "content": "content-templates\\introduction.md",
-        "type": "file"
-      }
+      "contentTemplatePath": "..\\content-templates\\introduction.md"
     },
     {
       "type": "learning_content",
-      "template":{
-        "content": "content-templates\\whatIsProduct.md",
-        "type": "file"
-      }
+      "contentTemplatePath": "..\\content-templates\\whatIsProduct.md"
     },
     {
       "type": "learning_content",
-      "template":{
-        "content": "content-templates\\howProductWorks.md",
-        "type": "file"
-      }
+      "contentTemplatePath": "..\\content-templates\\howProductWorks.md"
     },
     {
       "type": "learning_content",
-      "template":{
-        "content": "content-templates\\whenToUseProduct.md",
-        "type": "file"
-      }
+      "contentTemplatePath": "..\\content-templates\\whenToUseProduct.md"
     },
     {
-      "type": "Summary",
-      "template":{
-        "content": "content-templates\\summary.md",
-        "type": "file"
-      }
+      "type": "summary",
+      "contentTemplatePath": "..\\content-templates\\summary.md"
     }
   ]
 }
