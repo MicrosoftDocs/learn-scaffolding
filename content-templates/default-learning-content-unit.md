@@ -1,66 +1,73 @@
-<!-- Do not add an H1 title; the title is generated automatically -->
+<!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
 
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    Goal: briefly summarize the key skill this unit will teach
 
-<!-- Introduction paragraph for learning content unit -->
-<!-- [guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#rule-use-the-standard-learning-unit-introduction-format) -->
-<!-- [example](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#example) -->
+    Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content
 
-<!-- Topic sentence that describes the core objective of this unit -->
-<!-- Example: "Organizations often have multiple storage accounts to let them implement different sets of requirements." -->
+    Example: "Organizations often have multiple storage accounts to let them implement different sets of requirements."
 
-<!--  One-two sentences relating this unit to the module's scenario -->
-<!-- Example: "In the chocolate-manufacturer example, there would be one storage account for the private business data and one for the consumer-facing files." -->
+    [Learning-unit introduction guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#rule-use-the-standard-learning-unit-introduction-format)
+-->
+TODO: add your topic sentences(s)
 
-<!-- One-two sentence list of this unit's content (i.e. a prose table-of-contents) -->
-<!-- Example: "Here, you will learn the policy factors that are controlled by a storage account so you can decide how many accounts you need." -->
+<!-- 2. Scenario sub-task --------------------------------------------------------------------------------
 
-<!-- Visual like an image, table, list, etc. that supports the topic sentence -->
-<!-- [Alt-text guidance](https://review.docs.microsoft.com/help/contribute/contribute-accessibility-multimedia?branch=master#alt-text) -->
+    Goal: Describe the part of the scenario covered in this exercise
+
+    Heading: none, combine this with the topic sentence into a single paragraph
+
+    Example: "In the chocolate-manufacturer example, there would be one storage account for the private business data and one for the consumer-facing files."
+-->
+TODO: add your scenario sub-task
+
+<!-- 3. Prose table-of-contents --------------------------------------------------------------------
+
+    Goal: State concisely what's covered in this unit
+
+    Heading: none, combine this with the topic sentence into a single paragraph
+
+    Example: "Here, you will learn the policy factors that are controlled by a storage account so you can decide how many accounts you need."
+-->
+TODO: write your prose table-of-contents
+
+<!-- 4. Image (highly recommended) ----------------------------------------------------------------
+
+    Goal: Add a visual like an image, table, list, etc. that supports the topic sentence. Ideally, you'll provide an image that illustrates the customer problem the unit will solve; it can use the scenario to do this or stay generic (i.e. not address the scenario).
+-->
+TODO: add a visual
 :::image type="content" source="" alt-text="":::
 
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!-- 5. Chunked content-------------------------------------------------------------------------------------
 
-TODO: break the rest of your content into "chunks" using either of the following patterns as needed
-    ([guidance](https://review.docs.microsoft.com/en-us/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
-    [example](https://review.docs.microsoft.com/en-us/learn-docs/docs/id-guidance-structure-learning-content?branch=master#examples))
+    Goal: Provide all the information the learner needs to perform this sub-task.
 
-## H2 Title (pattern for simple topic)
+    Structure: Break the content into 'chunks' where each chunk has three things:
+        1. An H2 or H3 heading describing the goal of the chunk
+        2. 1-3 paragraphs of text
+        3. A visual like an image, table, or list
 
+    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
+-->
+
+## H2 heading (pattern for simple topic)
 Strong lead sentence; remainder of paragraph.
-
+Paragraph (optional)
+Visual (image, table, list)
+Paragraph (optional)
 Paragraph (optional)
 
-Visual (image, table, bulleted list, etc.)
-
-Paragraph (optional)
-
-Paragraph (optional)
-
-## H2 Title (pattern for complex topic)
-
+## H2 heading (pattern for complex topic)
 Strong lead sentence; remainder of paragraph.
-
-Visual (image, table, bulleted list, etc.)
-
-### H3 Title
-
+Visual (image, table, list)
+### H3 heading
 Strong lead sentence; remainder of paragraph.
-
 Paragraph (optional)
-
-Visual (image, table, bulleted list, etc.)
-
+Visual (image, table, list)
 Paragraph (optional)
-
-### H3 Title
-
+### H3 heading
 Strong lead sentence; remainder of paragraph.
-
 Paragraph (optional)
-
-Visual (image, table, bulleted list, etc.)
-
+Visual (image, table, list)
 Paragraph (optional)
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
