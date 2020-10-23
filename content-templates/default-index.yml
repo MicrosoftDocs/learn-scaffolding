@@ -8,7 +8,7 @@ metadata:
   author: # stub with GitHub ID from user settings
   ms.author: # stub with Microsoft alias from user settings
   ms.topic: interactive-tutorial # do we need ms.topic?
-title: # user input: module title for published page
+title: # stubbed from user input in VS Code
 summary: # user input: describe the module contents
 abstract: | # user input: list the learning objectives
   In this module, you will: 
