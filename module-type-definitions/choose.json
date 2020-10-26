@@ -1,6 +1,7 @@
 {
   "moduleType": "choose",
   "moduleTemplatePath": "..\\content-templates\\default-index.yml",
+  "moduleNameTemplate": "",
   "units":[
     {
       "type": "introduction",
