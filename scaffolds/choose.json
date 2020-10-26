@@ -1,6 +1,8 @@
 {
   "moduleType": "choose",
   "indexTemplatePath": "..\\content-templates\\default-index.yml",
+  "unitTemplatePath": "..\\content-templates\\default-unit.yml",
+  "knowledgeCheckTemplatePath": "..\\content-templates\\default-knowledge-check-unit.yml",
   "units":[
     {
       "type": "introduction",
