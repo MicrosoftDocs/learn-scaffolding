@@ -7,47 +7,47 @@
     {
       "type": "introduction",
       "contentTemplatePath": "..\\content-templates\\default-introduction-unit.md",
-      "templateFilename": "introduction.md"
+      "templateFilename": "1-introduction.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "learning-content-1.md"
+      "templateFilename": "2-idenfity-product-options.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "learning-content-2.md"
+      "templateFilename": "3-analyze-decision-criteria.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "learning-content-3.md"
+      "templateFilename": "4-use-product1.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "learning-content-4.md"
+      "templateFilename": "5-use-product2.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "learning-content-5.md"
+      "templateFilename": "6-use-product3.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "learning-content-6.md"
+      "templateFilename": "7-use-product4.md"
     },
     {
       "type": "knowledge_check",
       "contentTemplatePath": "..\\content-templates\\default-knowledge-check-standalone-unit.yml",
-      "templateFilename": "knowledge-check.yml"
+      "templateFilename": "8-knowledge-check.yml"
     },
     {
       "type": "summary",
       "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
-      "templateFilename": "summary.md"
+      "templateFilename": "9-summary.md"
     }
   ]
 }

@@ -7,32 +7,32 @@
     {
       "type": "introduction",
       "contentTemplatePath": "..\\content-templates\\default-introduction-unit.md",
-      "templateFilename": "introduction.md"
+      "templateFilename": "1-introduction.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "what-is-product.md"
+      "templateFilename": "2-what-is-product.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "how-product-works.md"
+      "templateFilename": "3-how-product-works.md"
     },
     {
       "type": "learning_content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "templateFilename": "when-to-use-product.md"
+      "templateFilename": "4-when-to-use-product.md"
     },
     {
       "type": "knowledge_check",
       "contentTemplatePath": "..\\content-templates\\default-knowledge-check-standalone-unit.yml",
-      "templateFilename": "knowledge-check.yml"
+      "templateFilename": "5-knowledge-check.yml"
     },
     {
       "type": "summary",
       "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
-      "templateFilename": "summary.md"
+      "templateFilename": "6-summary.md"
     }
   ]
 }
