@@ -10,7 +10,7 @@
       "templateFilename": "1-introduction.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "2-learning-content.md"
     },
@@ -20,7 +20,7 @@
       "templateFilename": "3-exercise.md"
     },
     {
-      "type": "knowledge_check",
+      "type": "knowledge-check",
       "contentTemplatePath": "..\\content-templates\\default-knowledge-check-standalone-unit.yml",
       "templateFilename": "4-knowledge-check.yml"
     },

@@ -10,22 +10,22 @@
       "templateFilename": "1-introduction.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "2-what-is-product.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "3-how-product-works.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "4-when-to-use-product.md"
     },
     {
-      "type": "knowledge_check",
+      "type": "knowledge-check",
       "contentTemplatePath": "..\\content-templates\\default-knowledge-check-standalone-unit.yml",
       "templateFilename": "5-knowledge-check.yml"
     },

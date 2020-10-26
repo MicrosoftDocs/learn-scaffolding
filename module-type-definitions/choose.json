@@ -10,37 +10,37 @@
       "templateFilename": "1-introduction.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "2-idenfity-product-options.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "3-analyze-decision-criteria.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "4-use-product1.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "5-use-product2.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "6-use-product3.md"
     },
     {
-      "type": "learning_content",
+      "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "templateFilename": "7-use-product4.md"
     },
     {
-      "type": "knowledge_check",
+      "type": "knowledge-check",
       "contentTemplatePath": "..\\content-templates\\default-knowledge-check-standalone-unit.yml",
       "templateFilename": "8-knowledge-check.yml"
     },
