@@ -1,13 +1,7 @@
 {
   "terms": [
-    {
-      "and": ""
-    },
-    {
-      "the": ""
-    },
-    {
-      "application": "app"
-    }
+    { "and": "" },
+    { "the": "" },
+    { "application": "app" }
   ]
 }
