@@ -2,7 +2,7 @@
 uid: # stub from prefix + module folder name + default unit name 
 title: # stub from default unit name
 metadata:
-  type: # stub based on selected scaffold: introduction | learning_content | exercise | knowledge_check | summary
+  type: # stub based on selected scaffold: introduction | learning_content | exercise | summary
   title: # user input: module title for browser tab and search results
   description: # user input: a description for site search and SEO
   ms.date: # stub with today's date
