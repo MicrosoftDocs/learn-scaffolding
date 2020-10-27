@@ -13,7 +13,7 @@
       "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "2-idenfity-product-options.md"
+      "scaffoldFilename": "2-idenfity-{product}-options.md"
     },
     {
       "type": "learning-content",
@@ -25,25 +25,25 @@
       "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "4-use-product1.md"
+      "scaffoldFilename": "4-use-{product}1.md"
     },
     {
       "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "5-use-product2.md"
+      "scaffoldFilename": "5-use-{product}2.md"
     },
     {
       "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "6-use-product3.md"
+      "scaffoldFilename": "6-use-{product}3.md"
     },
     {
       "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "7-use-product4.md"
+      "scaffoldFilename": "7-use-{product}4.md"
     },
     {
       "type": "knowledge-check",

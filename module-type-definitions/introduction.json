@@ -13,19 +13,19 @@
       "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "2-what-is-product.md"
+      "scaffoldFilename": "2-what-is-{product}.md"
     },
     {
       "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "3-how-product-works.md"
+      "scaffoldFilename": "3-how-{product}-works.md"
     },
     {
       "type": "learning-content",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "4-when-to-use-product.md"
+      "scaffoldFilename": "4-when-to-use-{product}.md"
     },
     {
       "type": "knowledge-check",
