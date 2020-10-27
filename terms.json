@@ -1,5 +1,6 @@
 {
-  "terms": [
+  "titleReplacements": [
+    { "a": "" },
     { "and": "" },
     { "the": "" },
     { "application": "app" }
