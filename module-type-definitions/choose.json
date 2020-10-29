@@ -1,59 +1,59 @@
 {
   "moduleType": "choose",
   "moduleTemplatePath": "..\\content-templates\\default-index.yml",
-  "moduleNameTemplate": "",
+  "moduleTitleTemplate": "",
   "units":[
     {
       "type": "introduction",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-introduction-unit.md",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "1-introduction.md"
+      "scaffoldFilename": "1-introduction"
     },
     {
       "type": "learning-content",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "2-identify-{product}-options.md"
+      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "scaffoldFilename": "2-identify-{product}-options"
     },
     {
       "type": "learning-content",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "3-analyze-decision-criteria.md"
+      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "scaffoldFilename": "3-analyze-decision-criteria"
     },
     {
       "type": "learning-content",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "4-use-{product1}.md"
+      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "scaffoldFilename": "4-use-{product1}"
     },
     {
       "type": "learning-content",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "5-use-{product2}.md"
+      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "scaffoldFilename": "5-use-{product2}"
     },
     {
       "type": "learning-content",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "6-use-{product3}.md"
+      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "scaffoldFilename": "6-use-{product3}"
     },
     {
       "type": "learning-content",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "scaffoldFilename": "7-use-{product4}.md"
+      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "scaffoldFilename": "7-use-{product4}"
     },
     {
       "type": "knowledge-check",
       "moduleUnitTemplatePath": "..\\content-templates\\default-knowledge-check-standalone-unit.yml",
-      "scaffoldFilename": "8-knowledge-check.yml"
+      "scaffoldFilename": "8-knowledge-check"
     },
     {
       "type": "summary",
-      "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
       "scaffoldFilename": "9-summary.md"
     }
   ]
