@@ -54,7 +54,7 @@
       "type": "summary",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
-      "scaffoldFilename": "9-summary.md"
+      "scaffoldFilename": "9-summary"
     }
   ]
 }
