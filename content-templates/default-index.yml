@@ -32,4 +32,4 @@ units: # stub based on prefix, module folder, and unit names
 - # unit 1
 - # unit n
 badge: # stub based on prefix and module folder
-  uid: {{learRepo}}.{{moduleName}}.badge
+  uid: {{learnRepo}}.{{moduleName}}.badge
