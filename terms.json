@@ -1,8 +1,8 @@
 {
-  "titleReplacements": [
-    { "a": "" },
-    { "and": "" },
-    { "the": "" },
-    { "application": "app" }
-  ]
+  "titleReplacements": {
+    "a": "" ,
+    "and": "" ,
+    "the": "" ,
+    "application": "app"
+  }
 }
