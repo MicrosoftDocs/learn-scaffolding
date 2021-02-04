@@ -1,7 +1,7 @@
 {
   "moduleType": "introduction",
   "moduleTemplatePath": "..\\content-templates\\default-index.yml",
-  "moduleTitleTemplate": "",
+  "moduleTitleTemplate": "Introduction to {product}",
   "units":[
     {
       "type": "introduction",
