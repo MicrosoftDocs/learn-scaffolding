@@ -7,25 +7,28 @@
       "type": "introduction",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-introduction-unit.md",
-      "scaffoldFilename": "1-introduction"
+      "scaffoldFilename": "1-introduction",
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "scaffoldFilename": "2-what-is-{product}"
+      "scaffoldFilename": "2-what-is-{product}",
+      "unitTitleTemplate": "What is {product}"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "scaffoldFilename": "3-how-{product}-works"
+      "scaffoldFilename": "3-how-{product}-works",
+      "unitTitleTemplate": "How {product} works"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "scaffoldFilename": "4-when-to-use-{product}"
+      "scaffoldFilename": "4-when-to-use-{product}",
+      "unitTitleTemplate": "When to use {product}"
     },
     {
       "type": "knowledge-check",
