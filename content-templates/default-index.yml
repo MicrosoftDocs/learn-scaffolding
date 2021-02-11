@@ -28,6 +28,6 @@ roles: # user input: add roles from role taxonomy (https://review.docs.microsoft
 products: # stub default from user settings; user input: add product from product taxonomy (https://review.docs.microsoft.com/en-us/help/contribute/metadata-taxonomies?branch=master#product)
   {{products}}
 units: # stub based on prefix, module folder, and unit names
-  {{units}}
+ {{units}}
 badge: # stub based on prefix and module folder
   uid: {{learnRepo}}.{{moduleName}}.badge
