@@ -1,6 +1,7 @@
 ### YamlMime:ModuleUnit
 uid: {{learnRepo}}.{{moduleName}}.{{unitName}} # stub from prefix + module folder name + default unit name 
-title: # stub from default unit name
+### Use "Knowledge check" as your title here; don't add another title in the quiz element or an associated markdown page (if such a markdown page exists which is rare)
+title: Knowledge check
 metadata:
   type: knowledge_check
   title: # user input: module title for browser tab and search results
@@ -8,77 +9,85 @@ metadata:
   ms.date: {{msDate}} # stub with today's date
   author: {{githubUsername}} # stub with GitHub ID from user settings
   ms.author: {{msUser}} # stub with Microsoft alias from user settings
-  ms.topic: interactive-tutorial # do we need ms.topic?
+  ms.topic: interactive-tutorial
+  ms.prod: <TODO>
 durationInMinutes: # user input: the estimate time to complete the unit
-### Guidance (https://review.docs.microsoft.com/learn-docs/docs/id-guidance-knowledge-check) 
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-### 3-5 questions 
-### Align questions with the module's learning objectives 
-### Questions are complete sentences ending with a question mark 
-### No true/false questions 
-### 3 answers per question 
-### All answers about the same length 
-### Numeric answers listed in sorted order 
-### No "All of the above" and/or "None of the above" as answer choices 
-### No "Not" or "Except" in questions 
-### No second person ("you") in the questions or answers 
-### Provide a meaningful explanation for both correct and incorrect answers 
-### - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - 
-quiz: 
-  title: # user input: quiz title 
-  questions: 
-  - content: "" 
-    choices: 
-    - content: "" 
-      isCorrect: true 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-  - content: "" 
-    choices: 
-    - content: "" 
-      isCorrect: true 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-  - content: "" 
-    choices: 
-    - content: "" 
-      isCorrect: true 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-  - content: "" 
-    choices: 
-    - content: "" 
-      isCorrect: true 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-  - content: "" 
-    choices: 
-    - content: "" 
-      isCorrect: true 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
-    - content: "" 
-      isCorrect: false 
-      explanation: "" 
+
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+### Guidance (https://review.docs.microsoft.com/learn-docs/docs/id-guidance-knowledge-check)
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+### 3-5 questions
+### Align questions with the module's learning objectives
+### Questions are complete sentences ending with a question mark
+### No true/false questions
+### 3 answers per question
+### All answers about the same length
+### Numeric answers listed in sorted order
+### No "All of the above" and/or "None of the above" as answer choices
+### No "Not" or "Except" in questions
+### No second person ("you") in the questions or answers
+### Provide a meaningful explanation for both correct and incorrect answers
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+content: |
+quiz:
+  questions:
+  - content: ""
+    choices:
+    - content: ""
+      isCorrect: true
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+
+  - content: ""
+    choices:
+    - content: ""
+      isCorrect: true
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+
+  - content: ""
+    choices:
+    - content: ""
+      isCorrect: true
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+
+  - content: ""
+    choices:
+    - content: ""
+      isCorrect: true
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+
+  - content: ""
+    choices:
+    - content: ""
+      isCorrect: true
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
+    - content: ""
+      isCorrect: false
+      explanation: ""
