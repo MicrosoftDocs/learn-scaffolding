@@ -23,7 +23,7 @@
     },
     {
       "type": "knowledge-check",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-knowledge-check-standalone-unit.yml",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-knowledge-check-unit.yml",
       "scaffoldFilename": "4-knowledge-check"
     },
     {

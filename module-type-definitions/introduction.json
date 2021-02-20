@@ -1,44 +1,44 @@
 {
   "moduleType": "introduction",
-  "moduleTemplatePath": "..\\content-templates\\default-index.yml",
+  "moduleTemplatePath": "..\\content-templates\\intro-to\\index.yml",
   "moduleTitleTemplate": "Introduction to {product}",
   "units":[
     {
       "type": "introduction",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-introduction-unit.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\introduction.md",
       "scaffoldFilename": "1-introduction"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\what-is-it.md",
       "scaffoldFilename": "2-what-is-{product}",
       "unitTitleTemplate": "What is {product}"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\how-it-works.md",
       "scaffoldFilename": "3-how-{product}-works",
       "unitTitleTemplate": "How {product} works"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\when-to-use-it.md",
       "scaffoldFilename": "4-when-to-use-{product}",
       "unitTitleTemplate": "When to use {product}"
     },
     {
       "type": "knowledge-check",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-knowledge-check-standalone-unit.yml",
+      "moduleUnitTemplatePath": "..\\content-templates\\intro-to\\knowledge-check.yml",
       "scaffoldFilename": "5-knowledge-check"
     },
     {
       "type": "summary",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\summary.md",
       "scaffoldFilename": "6-summary"
     }
   ]
