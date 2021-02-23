@@ -6,39 +6,39 @@
     {
       "type": "introduction",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\intro-to\\introduction.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\1-introduction.md",
       "scaffoldFilename": "1-introduction"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\intro-to\\what-is-it.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\2-what-is-it.md",
       "scaffoldFilename": "2-what-is-{product}",
       "unitTitleTemplate": "What is {product}"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\intro-to\\how-it-works.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\3-how-it-works.md",
       "scaffoldFilename": "3-how-{product}-works",
       "unitTitleTemplate": "How {product} works"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\intro-to\\when-to-use-it.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\4-when-to-use-it.md",
       "scaffoldFilename": "4-when-to-use-{product}",
       "unitTitleTemplate": "When to use {product}"
     },
     {
       "type": "knowledge-check",
-      "moduleUnitTemplatePath": "..\\content-templates\\intro-to\\knowledge-check.yml",
+      "moduleUnitTemplatePath": "..\\content-templates\\intro-to\\5-knowledge-check.yml",
       "scaffoldFilename": "5-knowledge-check"
     },
     {
       "type": "summary",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\intro-to\\summary.md",
+      "contentTemplatePath": "..\\content-templates\\intro-to\\6-summary.md",
       "scaffoldFilename": "6-summary"
     }
   ]
