@@ -1,6 +1,8 @@
 <!-- 1. Goal and criteria-----------------------------------------------------------------------------
 
-    Goal: Recap that the goal is 'evaluate'. Give a bulleted list of the criteria developed in the "When to use <product>" unit.
+    Goal: Recap that this module's goal is 'evaluate' using the provided decision criteria.
+
+    Format: Short text followed by a bulleted list of the decision criteria developed in the "When to use <product>" unit.
 
     Heading: do not add an H1 or H2 title here, the auto-generated H1 will appear above this content automatically
 
@@ -16,7 +18,7 @@ TODO: bulleted list of the decision criteria
 
 <!-- 2. Show how you solved the scenario problem(s)---------------------------------------------------
 
-    Goal: Describe how you applied the decision criteria to the scenario problem(s)
+    Goal: Briefly summarize how you applied the decision criteria to the scenario problem(s). Ideally, discuss two scenarios, one where the product was appropriate and one where it wasn't.
 
     Heading: none; depending on length, you can put this in a separate paragraph or combine this with the previous section into a single paragraph
 
@@ -31,13 +33,13 @@ TODO: add your discussion of applying the criteria
 
     Heading: none; depending on length, you can put this in a separate paragraph or combine this with the previous section into a single paragraph
 
-    Example: "The criteria help you evaluate whether your business processes are a good match for Logic Apps. First, they let you assess how well Logic Apps will solve your problem. Second, they give you an idea of the amount of effort involved. This strategy helps you choose the right product for your work."
+    Example: "The criteria help you evaluate whether your business processes are a good match for Logic Apps. First, they let you assess how well Logic Apps will solve your problem. Second, they give you an idea of the amount of customization effort involved in using them for your task. This process should give you enough information to choose the right product for your work."
  -->
 TODO: describe the business impact
 
 <!-- 4. References (optional) ----------------------------------------------------
 
-    Goal: provide recommendations for further study via a bulleted list of links
+    Goal: Provide a few recommendations for further study via a bulleted list of links. This is optional and intended to be used sparingly.
         - use the target page title as the text for your link
         - do not include other text such as a description
         - prefer other first-party sites like Docs reference pages

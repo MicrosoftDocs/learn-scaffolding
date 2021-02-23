@@ -6,14 +6,14 @@ metadata:
   description: ""                 # Copy your 'evaluate' Learning Objective here (see below)
   ms.date: {{msDate}}             # Date of commit to GitHub (do not use target publication date, cannot be in the future)
   author: {{githubUsername}}      # GitHub ID of the Microsoft employee either authoring or project-managing this content
-  ms.author: {{msUser}}           # Alias of the Microsoft employee either authoring or project-managing this content
+  ms.author: {{msUser}}           # Alias     of the Microsoft employee either authoring or project-managing this content
   ms.topic: interactive-tutorial  # Do not edit: value must be "interactive-tutorial"
-
+###########################################################################
 ###
 ### Do not edit: title must be "Introduction to <product>"
 ###
 title: {{moduleTitle}}
-
+###########################################################################
 ###
 ### Summary
 ###
@@ -23,36 +23,41 @@ title: {{moduleTitle}}
 ###   - To keep it brief, avoid teaching, omit motivation, and remove "learn", "in this module", and title words.
 ###
 ### Sentence 1:
-###   Goal: List the key features of the product that are covered in the content.
-###   Exclude: Omit less-important parts or group a few low-level parts into one higher-level element.
+###   Goal: List key features of the product covered here. Omit less-important parts or group low-level parts into one higher-level element.
 ###   Pattern: "Describe the <list of covered features> that <perform the key product use-case>."
-###   Example: "Describe the function of <connectors, triggers, and actions> and show how you <combine them to create an app>."
-###   Example: "Survey GitHub <notifications, branches, commits, and pull requests> that help you <collaborate, build, and deploy software>."
+###   Example 1: "Describe the function of <connectors, triggers, and actions> and show how you <combine them to create an app>."
+###   Example 2: "Survey GitHub <notifications, branches, commits, and pull requests> that help you <collaborate, build, and deploy software>."
 ###
 ### Sentence 2:
 ###   Goal: Describe how the module will achieve the 'evaluate' task.
 ###   Pattern: "Characterize the types of <problem> that <product> can <solve>".
-###   Example: "Characterize the types of <business processes> that <Logic Apps> can <automate>."
-###   Example: "Determine the types of <software projects> for which <GitHub> is a <good development platform>."
+###   Example 1: "Characterize the types of <business processes> that <Logic Apps> can <automate>."
+###   Example 2: "Determine the types of <software projects> for which <GitHub> is a <good development platform>."
 ###
 ### Detailed guidance: https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=master
 ###
 summary: ""
-
+###########################################################################
 ###
 ### Learning Objectives
 ###
 ### Write 2 Learning Objectives, one that fits each pattern shown below.
 ###
-### Example:
-###   "Evaluate whether <Logic Apps> is appropriate to <automate your business processes>."
-###   "Describe how <the components> of a <Logic App> work together to <launch your app and implement your business logic>."
+### Learning Objective 1:
+###   Goal: Express that 'evaluate' is the terminal learning objective of an "Introduction to <product>" module.
+###   Pattern: "Evaluate whether <product> is right for <general-type-of-problem-solved-by-product>."
+###   Example: "Evaluate whether <Logic Apps> is appropriate to <automate your business processes>."
+###
+### Learning Objective 2:
+###   Goal: Express that the learner will be able to describe how the product works to perform a task.
+###   Pattern: "Describe how <feature(s)> of <product> <solve problem>."
+###   Example: "Describe how <the components> of a <Logic App> work together to <launch your app and implement your business logic>."
 ###
 ### Notes:
-###   - The element name here is 'abstract' but it must contain your Learning Objectives.
-###   - Leave the lead-in sentence as is ("By the end of...").
+###   - The YAML element name here is 'abstract' but it must contain your Learning Objectives.
+###   - Do not edit the lead-in sentence ("By the end of this module, you will be able to:").
 ###   - Start each objective with an upper-case letter.
-###   - End each objective in the list with a period.
+###   - End each objective with a period.
 ###
 ### Detailed guidance: https://review.docs.microsoft.com/help/learn/id-guidance-learning-objectives?branch=master
 ###
@@ -60,7 +65,7 @@ abstract: |
   By the end of this module, you will be able to: 
     - Evaluate whether <product> is appropriate to <general product use case>.
     - Describe how <features> of <product> work to <solve problem>.
-
+###########################################################################
 ###
 ### Prerequisites
 ###   - List the skills learners need to have before starting this module.
@@ -85,18 +90,18 @@ prerequisites: |
   - # prerequisite 1
   - # prerequisite 2
   - # prerequisite 3
-
+###########################################################################
 ###
 ### Do not edit: will be replaced by the module icon when available
 ###
 iconUrl: https://docs.microsoft.com/media/learn/module.svg
-
+###########################################################################
 ###
 ### Do not edit: level must be 'beginner'
 ###
 levels:
   - beginner
-
+###########################################################################
 ###
 ### Specify the target role(s).
 ### Use exact value(s) from the role taxonomy (https://review.docs.microsoft.com/en-us/help/contribute/metadata-taxonomies?branch=master#role)
@@ -104,20 +109,20 @@ levels:
 roles:
   - # role 1
   - # role 2
-
+###########################################################################
 ###
 ### Specify the covered product.
 ### Use the exact value from the product taxonomy (https://review.docs.microsoft.com/en-us/help/contribute/metadata-taxonomies?branch=master#product)
 ###
 products:
   {{products}}
-
+###########################################################################
 ###
 ### Do not edit: the unit names and order are exactly determined by the "Introduction to <product>" module pattern
 ###
 units: # stub based on prefix, module folder, and unit names
   {{units}}
-
+###########################################################################
 ###
 ### TODO: verify if this should start as temporary/default badge
 ###
