@@ -14,7 +14,7 @@ abstract: | # user input: list the learning objectives
   In this module, you will: 
     - # objective 1
     - # objective 2
-    - # objective 3
+    - # objective 3 (if needed)
 prerequisites: | # user input: list the prerequisites
   - # prerequisite 1
   - # prerequisite 2
