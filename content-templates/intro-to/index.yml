@@ -19,8 +19,8 @@ prerequisites: | # user input: list the prerequisites
   - # prerequisite 2
   - # prerequisite 3
 iconUrl: https://docs.microsoft.com/media/learn/module.svg
-levels:
-  - beginner
+levels: # user input: add levels from level taxonomy (https://review.docs.microsoft.com/en-us/help/contribute/metadata-taxonomies?branch=master#level)
+  - # level
 roles: # user input: add roles from role taxonomy (https://review.docs.microsoft.com/en-us/help/contribute/metadata-taxonomies?branch=master#role)
   - # role 1
   - # role 2
