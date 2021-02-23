@@ -19,7 +19,7 @@ TODO: add your visual element
 
     Heading: use the H2 "Example scenario"
 
-    Example: "Suppose you work at an athletic shoe company that is launching a new product. You sell the shoes on your website, manage your cloud-hosted advertising videos, and monitor social media to gauge reactions to the launch. The following illustration shows these processes. Notice how the tasks include both customer-facing processes like direct sales and administrative tasks like auto-archiving old videos."
+    Example: "Suppose you work at an athletic shoe company that is launching a new product. You sell the shoes on your website, manage your cloud-hosted advertising videos, and monitor social media to gauge reactions to the launch. The following illustration shows these processes. Notice how the tasks include both customer-facing processes like direct sales and administrative tasks like auto-archiving old videos. Here, you'll see how Logic Apps automates these types of business processes."
 
     Recommended: an image that visualizes the scenario
 
@@ -36,12 +36,10 @@ TODO: add your image
 
     Heading: use the H2 "What will we be doing?"
 
-    Example: "We’ll analyze the capabilities of Logic Apps and when to use them:
-                - Launch: survey the conditions you can set to launch your app (time, data availability, etc.).
-                - Connect: survey the services to which you can connect.
-                - Branch: list the branching and looping features to add business logic.
-                - Evaluate: identify when Logic Apps are the right product for your tasks (performance, available connectors, etc.).
-                - Practice: apply the criteria to sample problems."
+    Example: "We’ll analyze the capabilities of Logic Apps to help you decide when to use them:
+                * **Launch**: what conditions can you set to launch your app?
+                * **Connect**: which services can you connect to?
+                * **Branch**: what types of business logic can you add to your app?"
 
  -->
 ## What will we be doing?
