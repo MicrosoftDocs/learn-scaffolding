@@ -7,7 +7,8 @@
       "type": "introduction",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\intro-to\\1-introduction.md",
-      "scaffoldFilename": "1-introduction"
+      "scaffoldFilename": "1-introduction",
+      "unitTitleTemplate": "Introduction"
     },
     {
       "type": "learning-content",
@@ -33,13 +34,15 @@
     {
       "type": "knowledge-check",
       "moduleUnitTemplatePath": "..\\content-templates\\intro-to\\5-knowledge-check.yml",
-      "scaffoldFilename": "5-knowledge-check"
+      "scaffoldFilename": "5-knowledge-check",
+      "unitTitleTemplate": "Knowledge check"
     },
     {
       "type": "summary",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\intro-to\\6-summary.md",
-      "scaffoldFilename": "6-summary"
+      "scaffoldFilename": "6-summary",
+      "unitTitleTemplate": "Summary"
     }
   ]
 }
