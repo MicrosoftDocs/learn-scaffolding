@@ -14,13 +14,15 @@
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "scaffoldFilename": "2-identify-{product}-options"
+      "scaffoldFilename": "2-identify-{product}-options",
+      "unitTitleTemplate": "Product options"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "scaffoldFilename": "3-analyze-decision-criteria"
+      "scaffoldFilename": "3-analyze-decision-criteria",
+      "unitTitleTemplate": "Decision criteria"
     },
     {
       "type": "learning-content",
@@ -32,30 +34,35 @@
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "scaffoldFilename": "5-use-{product2}"
+      "scaffoldFilename": "5-use-{product2}",
+      "unitTitleTemplate": "Use {product} to {solve problem}"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "scaffoldFilename": "6-use-{product3}"
+      "scaffoldFilename": "6-use-{product3}",
+      "unitTitleTemplate": "Use {product} to {solve problem}"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
-      "scaffoldFilename": "7-use-{product4}"
+      "scaffoldFilename": "7-use-{product4}",
+      "unitTitleTemplate": "Use {product} to {solve problem}"
     },
     {
       "type": "knowledge-check",
       "moduleUnitTemplatePath": "..\\content-templates\\default-knowledge-check-unit.yml",
-      "scaffoldFilename": "8-knowledge-check"
+      "scaffoldFilename": "8-knowledge-check",
+      "unitTitleTemplate": "Knowledge check"
     },
     {
       "type": "summary",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
-      "scaffoldFilename": "9-summary"
+      "scaffoldFilename": "9-summary",
+      "unitTitleTemplate": "Summary"
     }
   ]
 }
