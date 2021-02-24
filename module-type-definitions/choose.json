@@ -7,7 +7,8 @@
       "type": "introduction",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-introduction-unit.md",
-      "scaffoldFilename": "1-introduction"
+      "scaffoldFilename": "1-introduction",
+      "unitTitleTemplate": "Introduction"
     },
     {
       "type": "learning-content",
