@@ -98,7 +98,7 @@ TODO: Add your visual element
         Break the content into 'chunks' where each chunk has three things:
             1. An H2 or H3 heading describing the goal of the chunk
             2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph
-            3. Visual like an image, table, blockquote, code sample, or list
+            3. Visual like an image, table, list, code sample, or blockquote
 
     [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
 -->
@@ -106,22 +106,22 @@ TODO: Add your visual element
 ## H2 heading (pattern for simple topic)
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 Paragraph (optional)
 
 ## H2 heading (pattern for complex topic)
 Strong lead sentence; remainder of paragraph.
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 ### H3 heading
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 ### H3 heading
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->

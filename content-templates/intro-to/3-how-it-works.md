@@ -1,50 +1,38 @@
 <!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
 
-    Goal: briefly summarize the key skill this unit will teach
+    Goal: state what's in this unit and how it aligns to the 'describe' learning objective
+
+    Pattern:
+        One paragraph of 2-3 sentences:
+            Sentence 1: State that this unit addresses ("how it works")
+            Sentence 2: State that this unit targets the learning objective: "Describe how <features> of <product> work to <solve problem>."
+            Sentence 3-4 (optional): Give the rationale ("helps you decide if it will meet your needs").
+        Table-of-contents as a bulleted list (do not simply list every heading you'll have on the page, group them into about 3 high-level areas)
 
     Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content
 
-    Example: "Organizations often have multiple storage accounts to let them implement different sets of requirements."
-
-    [Learning-unit introduction guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#rule-use-the-standard-learning-unit-introduction-format)
+    Example: "Here, we'll discuss how Logic Apps works behind the scenes. You'll learn about all the pieces of Logic apps and see how they fit together into an app. This knowledge will help you decide whether Logic Apps will work for you without any customization. In cases where you do need to create custom components, you'll be able to determine how difficult it will be.
+        * Connectors, triggers, actions
+        * Control actions
+        * Logic Apps Designer"
 -->
 TODO: add your topic sentences(s)
+TODO: add your bulleted list of key things covered
+* TODO
+* TODO
+* TODO
 
-<!-- 2. Scenario sub-task --------------------------------------------------------------------------------
+<!-- 2. Chunked content-------------------------------------------------------------------------------------
 
-    Goal: Describe the part of the scenario covered in this exercise
+    Goal:
+        Cover the components of <product> and how they work.
+        Repeat this pattern multiple times as needed.
 
-    Heading: none, combine this with the topic sentence into a single paragraph
-
-    Example: "In the chocolate-manufacturer example, there would be one storage account for the private business data and one for the consumer-facing files."
--->
-TODO: add your scenario sub-task
-
-<!-- 3. Prose table-of-contents --------------------------------------------------------------------
-
-    Goal: State concisely what's covered in this unit
-
-    Heading: none, combine this with the topic sentence into a single paragraph
-
-    Example: "Here, you will learn the policy factors that are controlled by a storage account so you can decide how many accounts you need."
--->
-TODO: write your prose table-of-contents
-
-<!-- 4. Image (highly recommended) ----------------------------------------------------------------
-
-    Goal: Add a visual like an image, table, list, etc. that supports the topic sentence. Ideally, you'll provide an image that illustrates the customer problem the unit will solve; it can use the scenario to do this or stay generic (i.e. not address the scenario).
--->
-TODO: add a visual
-:::image type="content" source="" alt-text="":::
-
-<!-- 5. Chunked content-------------------------------------------------------------------------------------
-
-    Goal: Provide all the information the learner needs to perform this sub-task.
-
-    Structure: Break the content into 'chunks' where each chunk has three things:
-        1. An H2 or H3 heading describing the goal of the chunk
-        2. 1-3 paragraphs of text
-        3. A visual like an image, table, or list
+    Pattern:
+        Break the content into 'chunks' where each chunk has three things:
+            1. An H2 or H3 heading describing the goal of the chunk
+            2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph
+            3. Visual like an image, table, list, code sample, or blockquote
 
     [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
 -->
@@ -52,22 +40,22 @@ TODO: add a visual
 ## H2 heading (pattern for simple topic)
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 Paragraph (optional)
 
 ## H2 heading (pattern for complex topic)
 Strong lead sentence; remainder of paragraph.
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 ### H3 heading
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 ### H3 heading
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
