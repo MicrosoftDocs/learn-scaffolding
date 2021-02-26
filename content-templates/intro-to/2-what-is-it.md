@@ -20,13 +20,13 @@ TODO: add your topic sentences(s)
     Pattern:
         1. H2 heading
         2. Lead sentence that gives a definition "<concept> is..." (ensure this is a definition, do not give use cases like "<concept> lets you...")
-        3. 1-3 paragraphs of additional text as needed
+        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph)
         4. Visual like an image, table, blockquote, code sample, or list (image preferred)
 
     Example:
-        (Note: the product Azure Logic Apps implements business processes in the cloud. We need to define the term "business process" for our learners before trying to define the product itself.)
+        (Note: the product "Azure Logic Apps" implements business processes in the cloud; therefore, "business process" is a background concept.)
         Heading: "What is a business process?
-        Lead sentence: "A business process or workflow is a sequence of tasks that produce a specific outcome. The result might be a decision, some data, or a notification...."
+        Lead sentence: "A business process or _workflow_ is a sequence of tasks that produce a specific outcome. The result might be a decision, some data, or a notification...."
 -->
 ## What is <concept>?
 TODO: Add your lead sentence
@@ -88,10 +88,11 @@ TODO: Add your visual element
         The section is a catch-all for any information not covered in the sections above.
         Repeat the pattern here as many times as needed.
 
-    Suggested topics:
-        - Give another example use case in addition to the scenario.
-        - Describe how practitioners use product (e.g. there's an API and a web UI to support multiple use cases)
-        - Describe the business value (e.g. do something that would be difficult to achieve without <product>)
+    Possible topics:
+        - Key feature(s).
+        - Example use case in addition to the scenario.
+        - High-level of how practitioners use the product (e.g. there's an API and a web UI to support multiple use cases)
+        - Business value (e.g. it lets you do something that would be difficult to achieve without <product>)
 
     Pattern:
         Break the content into 'chunks' where each chunk has three things:
