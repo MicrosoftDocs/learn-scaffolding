@@ -12,11 +12,11 @@ TODO: add your topic sentences(s)
 
 <!-- 2. Scenario sub-task --------------------------------------------------------------------------------
 
-    Goal: Describe the part of the scenario covered in this exercise
+    Goal: Describe the part of the scenario that will be solved by the content in this unit
 
     Heading: none, combine this with the topic sentence into a single paragraph
 
-    Example: "In the chocolate-manufacturer example, there would be one storage account for the private business data and one for the consumer-facing files."
+    Example: "In the shoe-company scenario, we will use a Twitter trigger to launch our app when tweets containing our product name are available."
 -->
 TODO: add your scenario sub-task
 

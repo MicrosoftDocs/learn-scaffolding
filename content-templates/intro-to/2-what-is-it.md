@@ -1,50 +1,103 @@
-<!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
+<!-- 1. Topic sentence(s) -------------------------------------------------------------------------
 
-    Goal: briefly summarize the key skill this unit will teach
+    Goal: briefly state that this unit will define the product
 
-    Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content
+    Heading: do not add an H1 or H2 title, an auto-generated H1 "What is <product>?" will appear above this content
 
-    Example: "Organizations often have multiple storage accounts to let them implement different sets of requirements."
-
-    [Learning-unit introduction guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#rule-use-the-standard-learning-unit-introduction-format)
+    Example: "Let's start with a few definitions and a quick tour of the core features of Logic Apps. This overview should help you see whether Logic Apps might be a good fit for your work."
 -->
 TODO: add your topic sentences(s)
 
-<!-- 2. Scenario sub-task --------------------------------------------------------------------------------
+<!-- 2. Background-concept definitions (optional)-------------------------------------------------------------
 
-    Goal: Describe the part of the scenario covered in this exercise
+    Goal:
+        Define any needed underlying concepts or terms the learner must know to understand the product.
+        Repeat this pattern multiple times if multiple concepts are needed.
 
-    Heading: none, combine this with the topic sentence into a single paragraph
+    Heading:
+        "What is <concept>?"
 
-    Example: "In the chocolate-manufacturer example, there would be one storage account for the private business data and one for the consumer-facing files."
+    Pattern:
+        1. H2 heading
+        2. Lead sentence that gives a definition "<concept> is..." (ensure this is a definition, do not give use cases like "<concept> lets you...")
+        3. 1-3 paragraphs of additional text as needed
+        4. Visual like an image, table, blockquote, code sample, or list (image preferred)
+
+    Example:
+        (Note: the product Azure Logic Apps implements business processes in the cloud. We need to define the term "business process" for our learners before trying to define the product itself.)
+        Heading: "What is a business process?
+        Lead sentence: "A business process or workflow is a sequence of tasks that produce a specific outcome. The result might be a decision, some data, or a notification...."
 -->
-TODO: add your scenario sub-task
-
-<!-- 3. Prose table-of-contents --------------------------------------------------------------------
-
-    Goal: State concisely what's covered in this unit
-
-    Heading: none, combine this with the topic sentence into a single paragraph
-
-    Example: "Here, you will learn the policy factors that are controlled by a storage account so you can decide how many accounts you need."
--->
-TODO: write your prose table-of-contents
-
-<!-- 4. Image (highly recommended) ----------------------------------------------------------------
-
-    Goal: Add a visual like an image, table, list, etc. that supports the topic sentence. Ideally, you'll provide an image that illustrates the customer problem the unit will solve; it can use the scenario to do this or stay generic (i.e. not address the scenario).
--->
-TODO: add a visual
+## What is <concept>?
+TODO: Add your lead sentence
+TODO: Add your additional text
+TODO: Add your visual element
 :::image type="content" source="" alt-text="":::
 
-<!-- 5. Chunked content-------------------------------------------------------------------------------------
+<!-- 3. Define the product -------------------------------------------------------------
 
-    Goal: Provide all the information the learner needs to perform this sub-task.
+    Goal:
+        Give a formal and precise definition of the product.
 
-    Structure: Break the content into 'chunks' where each chunk has three things:
-        1. An H2 or H3 heading describing the goal of the chunk
-        2. 1-3 paragraphs of text
-        3. A visual like an image, table, or list
+    Heading:
+        "<product> definition"
+
+    Pattern:
+        1. H2 heading
+        2. Lead sentence that gives a definition "<product> is..." (ensure this is a definition, do not give use cases like "<product> lets you...")
+        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph)
+        4. Visual like an image, table, blockquote, code sample, or list (image preferred)
+
+    Example:
+        Heading: "Azure Logic Apps definition
+        Lead sentence: "Azure Logic Apps is a cloud service that automates the execution of your business processes."
+-->
+## <product> definition
+TODO: Add your lead sentence
+TODO: Add your additional text
+TODO: Add your visual element
+:::image type="content" source="" alt-text="":::
+
+<!-- 4. Solve the scenario -------------------------------------------------------------
+
+    Goal:
+        At a high level, describe how the <product> solves the <scenario>.
+
+    Heading:
+        "How to <solve scenario>"
+
+    Pattern:
+        1. H2 heading
+        2. Lead sentence that summarizes how the <product> solved the <scenario>.
+        3. Additional text as needed (typically 1-2 paragraphs total, integrate the lead sentence into the first paragraph)
+        4. Visual like an image, table, blockquote, code sample, or list (image preferred)
+
+    Example:
+        Heading: "How to implement a Twitter monitor"
+        Lead sentence: "To implement a Twitter monitor, you map each task to a Logic Apps component and connect them with conditional logic."
+-->
+## How to <solve scenario>
+TODO: Add your lead sentence
+TODO: Add your additional text
+TODO: Add your visual element
+:::image type="content" source="" alt-text="":::
+
+<!-- 5. Additional content (optional, as needed) ------------------------------------------------
+
+    Goal:
+        The section is a catch-all for any information not covered in the sections above.
+        Repeat the pattern here as many times as needed.
+
+    Suggested topics:
+        - Give another example use case in addition to the scenario.
+        - Describe how practitioners use product (e.g. there's an API and a web UI to support multiple use cases)
+        - Describe the business value (e.g. do something that would be difficult to achieve without <product>)
+
+    Pattern:
+        Break the content into 'chunks' where each chunk has three things:
+            1. An H2 or H3 heading describing the goal of the chunk
+            2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph
+            3. Visual like an image, table, blockquote, code sample, or list
 
     [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
 -->
