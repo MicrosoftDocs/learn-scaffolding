@@ -1,14 +1,14 @@
-<!-- 1. Topic sentence(s) -------------------------------------------------------------------------
+<!-- 1. Topic sentence(s) ---------------------------------------------------------------
 
-    Goal: briefly state that this unit will define the product
+    Goal: briefly state that this unit will define the product.
 
-    Heading: do not add an H1 or H2 title, an auto-generated H1 "What is <product>?" will appear above this content
+    Heading: do not add an H1 or H2 title, an auto-generated H1 "What is <product>?" will appear above this content.
 
     Example: "Let's start with a few definitions and a quick tour of the core features of Logic Apps. This overview should help you see whether Logic Apps might be a good fit for your work."
 -->
 TODO: add your topic sentences(s)
 
-<!-- 2. Background-concept definitions (optional)-------------------------------------------------------------
+<!-- 2. Background-concept definitions (optional) ----------------------------------------
 
     Goal:
         Define any needed underlying concepts or terms the learner must know to understand the product.
@@ -18,13 +18,13 @@ TODO: add your topic sentences(s)
         "What is <concept>?"
 
     Pattern:
-        1. H2 heading
-        2. Lead sentence that gives a definition "<concept> is..." (ensure this is a definition, do not give use cases like "<concept> lets you...")
-        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph)
-        4. Visual like an image, table, blockquote, code sample, or list (image preferred)
+        1. H2 heading.
+        2. Lead sentence that gives a definition "<concept> is..." (ensure this is a definition, do not give use cases like "<concept> lets you...").
+        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
+        4. Visual like an image, table, blockquote, code sample, or list (image preferred).
 
     Example:
-        (Note: the product "Azure Logic Apps" implements business processes in the cloud; therefore, "business process" is a background concept.)
+        (Note: the product "Logic Apps" implements business processes in the cloud; therefore, "business process" is a background concept.)
         Heading: "What is a business process?
         Lead sentence: "A business process or _workflow_ is a sequence of tasks that produce a specific outcome. The result might be a decision, some data, or a notification...."
 -->
@@ -43,10 +43,10 @@ TODO: Add your visual element
         "<product> definition"
 
     Pattern:
-        1. H2 heading
-        2. Lead sentence that gives a definition "<product> is..." (ensure this is a definition, do not give use cases like "<product> lets you...")
-        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph)
-        4. Visual like an image, table, blockquote, code sample, or list (image preferred)
+        1. H2 heading.
+        2. Lead sentence that gives a definition "<product> is..." (ensure this is a definition, do not give use cases like "<product> lets you...").
+        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
+        4. Visual like an image, table, blockquote, code sample, or list (image preferred).
 
     Example:
         Heading: "Azure Logic Apps definition
@@ -62,15 +62,16 @@ TODO: Add your visual element
 
     Goal:
         At a high level, describe how the <product> solves the <scenario>.
+        Avoid the details of how a practitioner would actually do the work (you're not teaching them to use <product>).
 
     Heading:
         "How to <solve scenario>"
 
     Pattern:
-        1. H2 heading
+        1. H2 heading.
         2. Lead sentence that summarizes how the <product> solved the <scenario>.
-        3. Additional text as needed (typically 1-2 paragraphs total, integrate the lead sentence into the first paragraph)
-        4. Visual like an image, table, blockquote, code sample, or list (image preferred)
+        3. Additional text as needed (typically 1-2 paragraphs total, integrate the lead sentence into the first paragraph).
+        4. Visual like an image, table, blockquote, code sample, or list (image preferred).
 
     Example:
         Heading: "How to implement a Twitter monitor"
@@ -91,14 +92,14 @@ TODO: Add your visual element
     Possible topics:
         - Key feature(s).
         - Example use case in addition to the scenario.
-        - High-level of how practitioners use the product (e.g. there's an API and a web UI to support multiple use cases)
-        - Business value (e.g. it lets you do something that would be difficult to achieve without <product>)
+        - High-level of how practitioners use the product (e.g. there's an API and a web UI to support multiple use cases).
+        - Business value (e.g. it lets you do something that would be difficult to achieve without <product>).
 
     Pattern:
         Break the content into 'chunks' where each chunk has three things:
-            1. An H2 or H3 heading describing the goal of the chunk
-            2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph
-            3. Visual like an image, table, list, code sample, or blockquote
+            1. An H2 or H3 heading describing the goal of the chunk.
+            2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph.
+            3. Visual like an image, table, list, code sample, or blockquote.
 
     [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
 -->

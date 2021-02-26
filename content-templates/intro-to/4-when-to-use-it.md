@@ -1,14 +1,14 @@
 <!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
 
-    Goal: state what's in this unit and how it aligns to the 'evaluate' learning objective
+    Goal: state what's in this unit and how it aligns to the 'evaluate' learning objective.
 
     Pattern:
         One paragraph of 2 sentences:
-            Sentence 1: State that this unit addresses ("when to use it")
+            Sentence 1: State that this unit addresses ("when to use it").
             Sentence 2: State that this unit targets this learning objective: "Evaluate whether <product> is appropriate to <general product use case>."
-        Decision criteria as a bulleted list
+        Decision criteria as a bulleted list.
 
-    Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content
+    Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content.
 
     Example: "Here, we'll discuss how you can decide whether Logic Apps is the right choice for a workflow. We'll list some criteria that indicate whether Logic Apps will meet your performance and functional goals.
         * Integration
@@ -24,13 +24,13 @@ TODO: add your bulleted list of key things covered
 
 <!-- 2. Decision criteria introduction --------------------------------------------------------------------------------
 
-    Goal: Lead-in to the criteria discussion
+    Goal: Lead-in to the criteria discussion.
 
     Pattern:
         1 paragraph consisting of 3 sentences
-            Sentence 1: summarizing the criteria from a positive view ("when to use")
-            Sentence 2: describing the negative ("when not to use") at a high level
-            Sentence 3: transition/lead-in to the detailed discussion
+            Sentence 1: summarizing the criteria from a positive view ("when to use").
+            Sentence 2: describing the negative ("when not to use") at a high level.
+            Sentence 3: transition/lead-in to the detailed discussion.
 
     Heading: H2 of "Decision criteria"
 
@@ -44,12 +44,12 @@ TODO: add your 3 lead-in sentences
 <!-- 3a. Decision criteria (for simple criteria) ----------------------------------------------------
 
     Note:
-        Choose either 3a or 3b for your content; do not do both
-        This pattern is for simple criteria where the analysis is brief and does not require a visual element
+        Choose either 3a or 3b for your content; do not do both.
+        This pattern is for simple criteria where the analysis is brief and does not require a visual element.
 
-    Goal: Describe in detail each criterion that helps the "when to use it" decision
+    Goal: Describe in detail each criterion that helps the "when to use it" decision.
 
-    Heading: do not add an H2 or H3 here, this content will be the 'body' for the "Decision criteria" header above
+    Heading: do not add an H2 or H3 here, this content will be the 'body' for the "Decision criteria" header above.
 
     Pattern:
         No header.
@@ -70,16 +70,16 @@ TODO: add your topic sentences(s)
 <!-- 3b. Decision criteria (for complex criteria) ----------------------------------------------------------
 
     Note:
-        Choose either 3a or 3b for your content; do not do both
-        This pattern is for complex criteria where the analysis of each criterion needs both and a visual element
+        Choose either 3a or 3b for your content; do not do both.
+        This pattern is for complex criteria where the analysis of each criterion needs both and a visual element.
 
-    Goal: Describe in detail each criterion that helps the "when to use it" decision
+    Goal: Describe in detail each criterion that helps the "when to use it" decision.
 
     Pattern:
         For each criterion, repeat this pattern:
-            1. H3 of the criterion
-            2. 1-3 paragraphs of discussion/analysis
-            3. Visual like an image, table, list, code sample, or blockquote
+            1. H3 of the criterion.
+            2. 1-3 paragraphs of discussion/analysis.
+            3. Visual like an image, table, list, code sample, or blockquote.
             
     Example:
         H3: "Integration"
@@ -106,13 +106,13 @@ Paragraph (optional)
 
 <!-- 2. Apply-the-criteria introduction --------------------------------------------------------------------------------
 
-    Goal: Lead-in to the example applications of the criteria
+    Goal: Lead-in to the example applications of the criteria.
 
     Pattern:
         1 paragraph consisting of 3 sentences
-            Sentence 1: summarizing the criteria from a positive view ("when to use")
+            Sentence 1: summarizing the criteria from a positive view ("when to use").
             Sentence 2: Acknowledge that there are cases for which <product> won't work and/or there are edge cases that are difficult to decide.
-            Sentence 3: transition/lead-in to the detailed discussion
+            Sentence 3: transition/lead-in to the detailed discussion.
 
     Heading: H2 of "Apply the criteria"
 
@@ -125,13 +125,13 @@ TODO: add your 3 lead-in sentences
 
 <!-- 4. Apply the criteria examples -----------------------------------------------------------------------------
 
-    Goal: Apply the criteria to the 2-3 customer tasks in the scenario described in your introduction unit
+    Goal: Apply the criteria to the 2-3 customer tasks in the scenario described in your introduction unit.
 
     Pattern:
         For each customer task, repeat this pattern:
-            1. H3 of "Should <scenario subtask> use <product>?"
-            2. 1-3 paragraphs of discussion/analysis (first sentence should answer yes/no about whether the product is suitable)
-            3. Visual like an image, table, list, code sample, or blockquote
+            1. H3 of "Should <scenario subtask> use <product>?".
+            2. 1-3 paragraphs of discussion/analysis (first sentence should answer yes/no about whether the product is suitable).
+            3. Visual like an image, table, list, code sample, or blockquote.
 
     Example:
         H3: "Should the video-archive utility use Logic Apps?"
@@ -159,11 +159,11 @@ Paragraph (optional)
 
 <!-- 5. Guidance summary (optional) ------------------------------------------------
 
-    Goal: Job-aid for future use to help customers evaluate their own tasks against the criteria
+    Goal: Job-aid for future use to help customers evaluate their own tasks against the criteria.
 
     Pattern:
         1. Lead-in sentence acknowledging that this is a summary/repeat of previous material.
-        2. Visual like a flowchart (as an image) or rubric (as a table)
+        2. Visual like a flowchart (as an image) or rubric (as a table).
 
     Example:
         "The following flowchart summarizes the key questions to ask when you're considering using Logic Apps."
