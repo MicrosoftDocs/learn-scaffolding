@@ -1,7 +1,7 @@
 ### YamlMime:Module
 uid: {{learnRepo}}.{{moduleName}} # stub from prefix + module folder name
 metadata:
-  type: {{patternType}} # stub based on user selection: standard | introduction | choose | custom
+  moduleType: {{patternType}} # stub based on user selection: standard | introduction | choose | custom
   title: # user input: module title for browser tab and search results
   description: # user input: a description for site search and SEO
   ms.date: {{msDate}} # stub with today's date
