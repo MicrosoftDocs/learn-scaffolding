@@ -21,14 +21,13 @@ TODO: add your visual element
 
     Example: "Suppose you work at an athletic shoe company that is launching a new product. You sell the shoes on your website, manage your cloud-hosted advertising videos, and monitor social media to gauge reactions to the launch. The following illustration shows these processes. Notice how the tasks include both customer-facing processes like direct sales and administrative tasks like auto-archiving old videos. Here, you'll see how Logic Apps automates these types of business processes."
 
-    Recommended: an image that visualizes the scenario
+    Recommended: an image that visualizes the scenario, use the image markdown extension (https://review.docs.microsoft.com/help/contribute/markdown-reference?branch=master#images)
 
     [Scenario guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-scenarios)
  -->
 ## Example scenario
 TODO: add your scenario
 TODO: add your image
-:::image type="content" source="" alt-text="":::
 
 <!-- 3. Prose table-of-contents --------------------------------------------------------------------------
 

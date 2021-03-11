@@ -32,7 +32,6 @@ TODO: add your topic sentences(s)
 TODO: Add your lead sentence
 TODO: Add your additional text
 TODO: Add your visual element
-:::image type="content" source="" alt-text="":::
 
 <!-- 3. Define the product -------------------------------------------------------------
 
@@ -56,7 +55,6 @@ TODO: Add your visual element
 TODO: Add your lead sentence
 TODO: Add your additional text
 TODO: Add your visual element
-:::image type="content" source="" alt-text="":::
 
 <!-- 4. Solve the scenario -------------------------------------------------------------
 
@@ -81,7 +79,6 @@ TODO: Add your visual element
 TODO: Add your lead sentence
 TODO: Add your additional text
 TODO: Add your visual element
-:::image type="content" source="" alt-text="":::
 
 <!-- 5. Additional content (optional, as needed) ------------------------------------------------
 

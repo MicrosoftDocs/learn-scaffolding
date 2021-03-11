@@ -104,7 +104,7 @@ Paragraph (optional)
 Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 
-<!-- 2. Apply-the-criteria introduction --------------------------------------------------------------------------------
+<!-- 4. Apply-the-criteria introduction --------------------------------------------------------------------------------
 
     Goal: Lead-in to the example applications of the criteria.
 
@@ -123,7 +123,7 @@ Paragraph (optional)
 ## Apply the criteria
 TODO: add your 3 lead-in sentences
 
-<!-- 4. Apply the criteria examples -----------------------------------------------------------------------------
+<!-- 5. Apply the criteria examples -----------------------------------------------------------------------------
 
     Goal: Apply the criteria to the 2-3 customer tasks in the scenario described in your introduction unit.
 
@@ -157,7 +157,7 @@ Paragraph (optional)
 Visual (image, table, list)
 Paragraph (optional)
 
-<!-- 5. Guidance summary (optional) ------------------------------------------------
+<!-- 6. Guidance summary (optional) ------------------------------------------------
 
     Goal: Job-aid for future use to help customers evaluate their own tasks against the criteria.
 
