@@ -8,7 +8,7 @@
             Sentence 2: State that this unit targets this learning objective: "Evaluate whether <product> is appropriate to <general product use case>."
         Decision criteria as a bulleted list.
 
-    Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content.
+    Heading: none
 
     Example: "Here, we'll discuss how you can decide whether Logic Apps is the right choice for a workflow. We'll list some criteria that indicate whether Logic Apps will meet your performance and functional goals.
         * Integration
@@ -32,7 +32,7 @@ TODO: add your bulleted list of key things covered
             Sentence 2: describing the negative ("when not to use") at a high level.
             Sentence 3: transition/lead-in to the detailed discussion.
 
-    Heading: H2 of "Decision criteria"
+    Heading: "## Decision criteria"
 
     Example:
         "Decision criteria"
@@ -49,10 +49,10 @@ TODO: add your 3 lead-in sentences
 
     Goal: Describe in detail each criterion that helps the "when to use it" decision.
 
-    Heading: do not add an H2 or H3 here, this content will be the 'body' for the "Decision criteria" header above.
+    Heading: none, this content will be the 'body' for the "Decision criteria" heading above.
 
     Pattern:
-        No header.
+        No heading.
         Place both the criteria and analysis into a table.
 
     Example:
@@ -114,7 +114,7 @@ Paragraph (optional)
             Sentence 2: Acknowledge that there are cases for which <product> won't work and/or there are edge cases that are difficult to decide.
             Sentence 3: transition/lead-in to the detailed discussion.
 
-    Heading: H2 of "Apply the criteria"
+    Heading: "## Apply the criteria"
 
     Example:
         "Apply the criteria"
@@ -129,7 +129,7 @@ TODO: add your 3 lead-in sentences
 
     Pattern:
         For each customer task, repeat this pattern:
-            1. H3 of "Should <scenario subtask> use <product>?".
+            1. "### Should <scenario subtask> use <product>?".
             2. 1-3 paragraphs of discussion/analysis (first sentence should answer yes/no about whether the product is suitable).
             3. Visual like an image, table, list, code sample, or blockquote.
 
@@ -162,8 +162,9 @@ Paragraph (optional)
     Goal: Job-aid for future use to help customers evaluate their own tasks against the criteria.
 
     Pattern:
-        1. Lead-in sentence acknowledging that this is a summary/repeat of previous material.
-        2. Visual like a flowchart (as an image) or rubric (as a table).
+        1. Heading "## Guidance summary"
+        2. Lead-in sentence acknowledging that this is a summary/repeat of previous material.
+        3. Visual like a flowchart (as an image) or rubric (as a table).
 
     Example:
         "The following flowchart summarizes the key questions to ask when you're considering using Logic Apps."

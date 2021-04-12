@@ -2,7 +2,7 @@
 
     Goal: Summarize the challenge(s) posed in the introduction scenario; be brief (1-2 sentences)
 
-    Heading: do not add an H1 or H2 title here, the auto-generated H1 will appear above this content automatically
+    Heading: none
 
     Example: "You are writing the instruction manual for a new model fire extinguisher. The instructions must be quickly read and understood by a wide variety of people."
 
@@ -57,7 +57,7 @@ TODO: describe the business impact
         - do not link to other Learn content ("next steps" recommendations are generated automatically)
         - avoid linking to opinion sites such as blog posts
 
-    Heading: use an H2 of "References"
+    Heading: "## References"
 
     Example:
         "## References
@@ -65,6 +65,5 @@ TODO: describe the business impact
           * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
           * [Manage access to billing information for Azure](https://docs.microsoft.com/azure/billing/billing-manage-access)"
  -->
-TODO: add an (optional) references section
 
 <!-- Do not include any other content -->

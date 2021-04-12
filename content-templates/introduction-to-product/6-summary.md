@@ -4,7 +4,7 @@
 
     Format: Short text followed by a bulleted list of the decision criteria developed in the "When to use <product>" unit.
 
-    Heading: do not add an H1 or H2 title here, the auto-generated H1 will appear above this content automatically
+    Heading: none
 
     Example: "Our goal was to help you evaluate whether Logic Apps would be a good choice for your business process. We developed some criteria you can use to guide your decision:
     * Integration
@@ -47,14 +47,13 @@ TODO: describe the business impact
         - do not link to other Learn content ("next steps" recommendations are generated automatically)
         - avoid linking to opinion sites such as blog posts
 
-    Heading: use an H2 of "References"
+    Heading: "## References"
 
     Example:
-        "## References
+        "References
         * [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
         * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
         * [Manage access to billing information for Azure](https://docs.microsoft.com/azure/billing/billing-manage-access)"
  -->
-TODO: add an (optional) references section
 
 <!-- Do not include any other content -->

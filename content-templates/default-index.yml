@@ -11,7 +11,7 @@ metadata:
 title: {{moduleTitle}} # stubbed from user input in VS Code (https://review.docs.microsoft.com/help/learn/id-guidance-title?branch=master)
 summary: # user input: introductory summary (https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=master)
 abstract: | # user input: learning objectives (https://review.docs.microsoft.com/help/learn/id-guidance-learning-objectives?branch=master)
-  By the end of this module, you will be able to: 
+  By the end of this module, you'll be able to: 
     - # objective 1
     - # objective 2
     - # objective 3 (if needed)

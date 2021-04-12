@@ -2,7 +2,7 @@
 
     Goal: briefly summarize the key skill this unit will teach
 
-    Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content
+    Heading: none
 
     Example: "Organizations often have multiple storage accounts to let them implement different sets of requirements."
 
@@ -30,11 +30,13 @@ TODO: add your scenario sub-task
 -->
 TODO: write your prose table-of-contents
 
-<!-- 4. Image (highly recommended) ----------------------------------------------------------------
+<!-- 4. Visual element (highly recommended) ----------------------------------------------------------------
 
-    Goal: Add a visual like an image, table, list, etc. that supports the topic sentence. Ideally, you'll provide an image that illustrates the customer problem the unit will solve; it can use the scenario to do this or stay generic (i.e. not address the scenario).
+    Goal: Visual element, like an image, table, list, code sample, or blockquote. Ideally, you'll provide an image that illustrates the customer problem the unit will solve; it can use the scenario to do this or stay generic (i.e. not address the scenario).
+
+    Heading: none
 -->
-TODO: add a visual
+TODO: add a visual element
 
 <!-- 5. Chunked content-------------------------------------------------------------------------------------
 
@@ -43,19 +45,21 @@ TODO: add a visual
     Structure: Break the content into 'chunks' where each chunk has three things:
         1. An H2 or H3 heading describing the goal of the chunk
         2. 1-3 paragraphs of text
-        3. A visual like an image, table, or list
+        3. Visual like an image, table, list, code sample, or blockquote.
 
     [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
 -->
 
-## H2 heading (pattern for simple topic)
+<!-- Pattern for simple topic -->
+## H2 heading
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
-Visual (image, table, list)
+Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 Paragraph (optional)
 
-## H2 heading (pattern for complex topic)
+<!-- Pattern for complex topic -->
+## H2 heading
 Strong lead sentence; remainder of paragraph.
 Visual (image, table, list)
 ### H3 heading

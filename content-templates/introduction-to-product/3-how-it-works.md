@@ -9,7 +9,7 @@
             Sentence 3-4 (optional): Give the rationale ("helps you decide if it will meet your needs").
         Table-of-contents as a bulleted list (do not simply list every heading you'll have on the page, group them into about 3 high-level areas).
 
-    Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content.
+    Heading: none
 
     Example: "Here, we'll discuss how Logic Apps works behind the scenes. You'll learn about all the pieces of Logic apps and see how they fit together into an app. This knowledge will help you decide whether Logic Apps will work for you without any customization. In cases where you do need to create custom components, you'll be able to determine how difficult it will be.
         * Connectors, triggers, actions
@@ -37,14 +37,16 @@ TODO: add your bulleted list of key things covered
     [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
 -->
 
-## H2 heading (pattern for simple topic)
+<!-- Pattern for simple topic -->
+## H2 heading
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
 Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 Paragraph (optional)
 
-## H2 heading (pattern for complex topic)
+<!-- Pattern for complex topic -->
+## H2 heading
 Strong lead sentence; remainder of paragraph.
 Visual (image, table, list, code sample, blockquote)
 ### H3 heading
