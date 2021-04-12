@@ -2,7 +2,7 @@
 
     Goal: remind the learner of the core idea(s) from the preceding learning-content unit (without mentioning the details of the exercise or the scenario)
 
-    Heading: do not add an H1 or H2 title here, an auto-generated H1 will appear above this content
+    Heading: none
 
     Example: "A storage account represents a collection of settings that implement a business policy."
 
@@ -79,7 +79,7 @@ TODO: describe the end-state
     Goal: Helps the learner to evaluate if they completed the exercise correctly.
 
     Structure: Break the steps into 'chunks' where each chunk has three things:
-        1. A heading of "Check your work"
+        1. A heading of "## Check your work"
         2. An introductory paragraph describing how they'll validate their work at a high level
         3. Numbered steps (when the learner needs to perform multiple steps to verify if they were successful)
         4. Video of an expert performing the exact steps of the exercise (optional)

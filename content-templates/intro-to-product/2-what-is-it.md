@@ -2,7 +2,7 @@
 
     Goal: briefly state that this unit will define the product.
 
-    Heading: do not add an H1 or H2 title, an auto-generated H1 "What is <product>?" will appear above this content.
+    Heading: none
 
     Example: "Let's start with a few definitions and a quick tour of the core features of Logic Apps. This overview should help you see whether Logic Apps might be a good fit for your work."
 -->
@@ -15,13 +15,13 @@ TODO: add your topic sentences(s)
         Repeat this pattern multiple times if multiple concepts are needed.
 
     Heading:
-        "What is <concept>?"
+        "## What is <concept>?"
 
     Pattern:
         1. H2 heading.
         2. Lead sentence that gives a definition "<concept> is..." (ensure this is a definition, do not give use cases like "<concept> lets you...").
         3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, blockquote, code sample, or list (image preferred).
+        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
 
     Example:
         (Note: the product "Logic Apps" implements business processes in the cloud; therefore, "business process" is a background concept.)
@@ -39,16 +39,16 @@ TODO: Add your visual element
         Give a formal and precise definition of the product.
 
     Heading:
-        "<product> definition"
+        "## <product> definition"
 
     Pattern:
         1. H2 heading.
         2. Lead sentence that gives a definition "<product> is..." (ensure this is a definition, do not give use cases like "<product> lets you...").
         3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, blockquote, code sample, or list (image preferred).
+        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
 
     Example:
-        Heading: "Azure Logic Apps definition
+        Heading: "Azure Logic Apps definition"
         Lead sentence: "Azure Logic Apps is a cloud service that automates the execution of your business processes."
 -->
 ## <product> definition
@@ -59,17 +59,17 @@ TODO: Add your visual element
 <!-- 4. Solve the scenario -------------------------------------------------------------
 
     Goal:
-        At a high level, describe how the <product> solves the <scenario>.
-        Avoid the details of how a practitioner would actually do the work (you're not teaching them to use <product>).
+        At a high level, describe how the <product> solves one of the customer tasks in your <scenario>.
+        Avoid teaching how to actually do the work (you're not teaching how-to-use in this module).
 
     Heading:
-        "How to <solve scenario>"
+        "## How to <solve scenario>"
 
     Pattern:
         1. H2 heading.
         2. Lead sentence that summarizes how the <product> solved the <scenario>.
         3. Additional text as needed (typically 1-2 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, blockquote, code sample, or list (image preferred).
+        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
 
     Example:
         Heading: "How to implement a Twitter monitor"
@@ -96,19 +96,21 @@ TODO: Add your visual element
         Break the content into 'chunks' where each chunk has three things:
             1. An H2 or H3 heading describing the goal of the chunk.
             2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph.
-            3. Visual like an image, table, list, code sample, or blockquote.
+            3. Visual like an image, table, list, code sample, or blockquote (image preferred).
 
     [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
 -->
 
-## H2 heading (pattern for simple topic)
+<!-- Pattern for simple topic -->
+## H2 heading
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
 Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 Paragraph (optional)
 
-## H2 heading (pattern for complex topic)
+<!-- Pattern for complex topic -->
+## H2 heading
 Strong lead sentence; remainder of paragraph.
 Visual (image, table, list, code sample, blockquote)
 ### H3 heading
