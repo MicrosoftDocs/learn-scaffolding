@@ -57,6 +57,6 @@ TODO: add your activities
 
  -->
 ## What is the main goal?
-By the end of this session, you'll be able to <TODO>
+By the end of this session, you'll be able to (TODO)
 
 <!-- Do **not** include any other content like learning objectives, prerequisites, unit summary, "next unit" lead-in, or references. -->

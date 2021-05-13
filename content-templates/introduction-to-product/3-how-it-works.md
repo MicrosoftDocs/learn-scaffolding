@@ -5,7 +5,7 @@
     Pattern:
         One paragraph of 2-3 sentences:
             Sentence 1: State that this unit addresses ("how it works").
-            Sentence 2: State that this unit targets this learning objective: "Describe how <features> of <product> work to <solve problem>."
+            Sentence 2: State that this unit targets this learning objective: "Describe how (features) of (product) work to (solve problem)."
             Sentence 3-4 (optional): Give the rationale ("helps you decide if it will meet your needs").
         Table-of-contents as a bulleted list (do not simply list every heading you'll have on the page, group them into about 3 high-level areas).
 
@@ -25,7 +25,7 @@ TODO: add your bulleted list of key things covered
 <!-- 2. Chunked content-------------------------------------------------------------------------------------
 
     Goal:
-        Cover the components of <product> and how they work.
+        Cover the components of (product) and how they work.
         Repeat this pattern multiple times as needed.
 
     Pattern:

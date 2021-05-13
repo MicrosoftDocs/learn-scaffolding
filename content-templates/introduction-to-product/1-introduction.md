@@ -46,7 +46,7 @@ TODO: add your activities
 
 <!-- 4. Terminal learning objective ----------------------------------------------------------------------
 
-    Goal: The title of an "Introduction to <product>" module tells our customers that this is a good place to start their learning. This helps our customers find the right content quickly. The trade-off is that the title does not reflect the terminal learning objective of the module. Here, you explain that this module teaches the 'evaluate' task. To do this, you:
+    Goal: The title of an "Introduction to (product)" module tells our customers that this is a good place to start their learning. This helps our customers find the right content quickly. The trade-off is that the title does not reflect the terminal learning objective of the module. Here, you explain that this module teaches the 'evaluate' task. To do this, you:
         - Start with your 'evaluate' learning objective
         - Make it a complete sentence if it's not already
         - Use plain language so it sounds conversational
@@ -58,6 +58,6 @@ TODO: add your activities
 
  -->
 ## What is the main goal?
-By the end of this session, you'll be able to <TODO>
+By the end of this session, you'll be able to (TODO)
 
 <!-- Do **not** include any other content like learning objectives, prerequisites, unit summary, "next unit" lead-in, or references. -->

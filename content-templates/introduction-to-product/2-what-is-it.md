@@ -15,11 +15,11 @@ TODO: add your topic sentences(s)
         Repeat this pattern multiple times if multiple concepts are needed.
 
     Heading:
-        "## What is <concept>?"
+        "## What is (concept)?"
 
     Pattern:
         1. H2 heading.
-        2. Lead sentence that gives a definition "<concept> is..." (ensure this is a definition, do not give use cases like "<concept> lets you...").
+        2. Lead sentence that gives a definition "(concept) is..." (ensure this is a definition, do not give use cases like "(concept) lets you...").
         3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
         4. Visual like an image, table, list, code sample, or blockquote (image preferred).
 
@@ -28,7 +28,7 @@ TODO: add your topic sentences(s)
         Heading: "What is a business process?
         Lead sentence: "A business process or _workflow_ is a sequence of tasks that produce a specific outcome. The result might be a decision, some data, or a notification...."
 -->
-## What is <concept>?
+## What is (concept)?
 TODO: Add your lead sentence
 TODO: Add your additional text
 TODO: Add your visual element
@@ -39,11 +39,11 @@ TODO: Add your visual element
         Give a formal and precise definition of the product.
 
     Heading:
-        "## <product> definition"
+        "## (product) definition"
 
     Pattern:
         1. H2 heading.
-        2. Lead sentence that gives a definition "<product> is..." (ensure this is a definition, do not give use cases like "<product> lets you...").
+        2. Lead sentence that gives a definition "(product) is..." (ensure this is a definition, do not give use cases like "(product) lets you...").
         3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
         4. Visual like an image, table, list, code sample, or blockquote (image preferred).
 
@@ -51,7 +51,7 @@ TODO: Add your visual element
         Heading: "Azure Logic Apps definition"
         Lead sentence: "Azure Logic Apps is a cloud service that automates the execution of your business processes."
 -->
-## <product> definition
+## (product) definition
 TODO: Add your lead sentence
 TODO: Add your additional text
 TODO: Add your visual element
@@ -59,15 +59,15 @@ TODO: Add your visual element
 <!-- 4. Solve the scenario -------------------------------------------------------------
 
     Goal:
-        At a high level, describe how the <product> solves one of the customer tasks in your <scenario>.
+        At a high level, describe how the (product) solves one of the customer tasks in your (scenario).
         Avoid teaching how to actually do the work (you're not teaching how-to-use in this module).
 
     Heading:
-        "## How to <solve scenario>"
+        "## How to (solve scenario)"
 
     Pattern:
         1. H2 heading.
-        2. Lead sentence that summarizes how the <product> solved the <scenario>.
+        2. Lead sentence that summarizes how the (product) solved the (scenario).
         3. Additional text as needed (typically 1-2 paragraphs total, integrate the lead sentence into the first paragraph).
         4. Visual like an image, table, list, code sample, or blockquote (image preferred).
 
@@ -75,7 +75,7 @@ TODO: Add your visual element
         Heading: "How to implement a Twitter monitor"
         Lead sentence: "To implement a Twitter monitor, you map each task to a Logic Apps component and connect them with conditional logic."
 -->
-## How to <solve scenario>
+## How to (solve scenario)
 TODO: Add your lead sentence
 TODO: Add your additional text
 TODO: Add your visual element
@@ -90,7 +90,7 @@ TODO: Add your visual element
         - Key feature(s).
         - Example use case in addition to the scenario.
         - High-level of how practitioners use the product (e.g. there's an API and a web UI to support multiple use cases).
-        - Business value (e.g. it lets you do something that would be difficult to achieve without <product>).
+        - Business value (e.g. it lets you do something that would be difficult to achieve without (product)).
 
     Pattern:
         Break the content into 'chunks' where each chunk has three things:
