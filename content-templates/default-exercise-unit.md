@@ -56,19 +56,19 @@ TODO: describe the end-state
               4. Scroll down to the Templates section and select Blank Logic App."
 -->
 
-## [Chunk 1 heading]
+## (Chunk 1 heading)
 <!-- Introduction paragraph -->
 1. <!-- Step 1 -->
 1. <!-- Step 2 -->
 1. <!-- Step n -->
 
-## [Chunk 2 heading]
+## (Chunk 2 heading)
 <!-- Introduction paragraph -->
 1. <!-- Step 1 -->
 1. <!-- Step 2 -->
 1. <!-- Step n -->
 
-## [Chunk n heading]
+## (Chunk n heading)
 <!-- Introduction paragraph -->
 1. <!-- Step 1 -->
 1. <!-- Step 2 -->

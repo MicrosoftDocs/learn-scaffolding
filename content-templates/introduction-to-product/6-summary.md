@@ -2,7 +2,7 @@
 
     Goal: Recap that this module's goal is 'evaluate' using the provided decision criteria.
 
-    Format: Short text followed by a bulleted list of the decision criteria developed in the "When to use <product>" unit.
+    Format: Short text followed by a bulleted list of the decision criteria developed in the "When to use (product)" unit.
 
     Heading: none
 

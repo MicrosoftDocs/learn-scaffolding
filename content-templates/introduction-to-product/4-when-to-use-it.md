@@ -5,7 +5,7 @@
     Pattern:
         One paragraph of 2 sentences:
             Sentence 1: State that this unit addresses ("when to use it").
-            Sentence 2: State that this unit targets this learning objective: "Evaluate whether <product> is appropriate to <general product use case>."
+            Sentence 2: State that this unit targets this learning objective: "Evaluate whether (product) is appropriate to (general product use case)."
         Decision criteria as a bulleted list.
 
     Heading: none
@@ -84,21 +84,21 @@ TODO: add your topic sentences(s)
     Example:
         H3: "Integration"
         Prose: The key question to ask when you're considering Logic Apps is _"do I need to integrate services?"_ Logic Apps work well when you need to get multiple applications and systems to work together. That's what they were designed to do. If you're building an app with no external connections, Logic Apps is probably not the best option."
-        Visual: <image preferred>
+        Visual: (image preferred)
 -->
-### <criterion>
+### (criterion)
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
 Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 
-### <criterion>
+### (criterion)
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
 Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 
-### <criterion>
+### (criterion)
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
 Visual (image, table, list, code sample, blockquote)
@@ -111,7 +111,7 @@ Paragraph (optional)
     Pattern:
         1 paragraph consisting of 3 sentences
             Sentence 1: summarizing the criteria from a positive view ("when to use").
-            Sentence 2: Acknowledge that there are cases for which <product> won't work and/or there are edge cases that are difficult to decide.
+            Sentence 2: Acknowledge that there are cases for which (product) won't work and/or there are edge cases that are difficult to decide.
             Sentence 3: transition/lead-in to the detailed discussion.
 
     Heading: "## Apply the criteria"
@@ -129,29 +129,29 @@ TODO: add your 3 lead-in sentences
 
     Pattern:
         For each customer task, repeat this pattern:
-            1. "### Should <scenario subtask> use <product>?".
+            1. "### Should (scenario subtask) use (product)?".
             2. 1-3 paragraphs of discussion/analysis (first sentence should answer yes/no about whether the product is suitable).
             3. Visual like an image, table, list, code sample, or blockquote.
 
     Example:
         H3: "Should the video-archive utility use Logic Apps?"
         Prose: "The video archive task is a good fit for Logic Apps even though it doesn't integrate multiple systems. Logic Apps has a built-in timer trigger and an Azure blob connector that are perfect to implement this process...."
-        Visual: <image preferred>
+        Visual: (image preferred)
 -->
 
-### Should <scenario subtask> use <product>?
+### Should (scenario subtask) use (product)?
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
 Visual (image, table, list)
 Paragraph (optional)
 
-### Should <scenario subtask> use <product>?
+### Should (scenario subtask) use (product)?
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
 Visual (image, table, list)
 Paragraph (optional)
 
-### Should <scenario subtask> use <product>?
+### Should (scenario subtask) use (product)?
 Strong lead sentence; remainder of paragraph.
 Paragraph (optional)
 Visual (image, table, list)
