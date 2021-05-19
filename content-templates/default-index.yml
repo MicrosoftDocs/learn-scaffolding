@@ -1,33 +1,33 @@
 ### YamlMime:Module
-uid: {{learnRepo}}.{{moduleName}} # stub from prefix + module folder name
+uid: {{learnRepo}}.{{moduleName}}
 metadata:
-  moduleType: {{patternType}} # stub based on user selection: standard | introduction | choose | custom
-  title: "TODO" # user input: module title for browser tab and search results
-  description: "TODO" # user input: a description for site search and SEO
-  ms.date: {{msDate}} # stub with today's date
-  author: {{githubUsername}} # stub with GitHub ID from user settings
-  ms.author: {{msUser}} # stub with Microsoft alias from user settings
-  ms.topic: interactive-tutorial # do we need ms.topic?
-title: {{moduleTitle}} # stubbed from user input in VS Code (https://review.docs.microsoft.com/help/learn/id-guidance-title?branch=master)
-summary: "TODO" # user input: introductory summary (https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=master)
-abstract: | # user input: learning objectives (https://review.docs.microsoft.com/help/learn/id-guidance-learning-objectives?branch=master)
+  moduleType: {{patternType}}
+  title: {{moduleTitle}}
+  description: "TODO: this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the module; include relevant search keywords."
+  ms.date: {{msDate}}
+  author: {{githubUsername}}
+  ms.author: {{msUser}}
+  ms.topic: interactive-tutorial
+title: {{moduleTitle}}
+summary: "TODO: 2 sentences, 20-35 words, don't teach or motivate, avoid using 'learn', don't duplicate the title; see https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=master"
+abstract: |
   By the end of this module, you'll be able to: 
-    - # objective 1
-    - # objective 2
-    - # objective 3 (if needed)
-prerequisites: | # user input: prerequisites (https://review.docs.microsoft.com/help/learn/id-guidance-prerequisites?branch=master)
-  - # prerequisite 1
-  - # prerequisite 2
-  - # prerequisite 3
+    - "TODO learning objective 1"
+    - "TODO learning objective 2"
+    - "TODO learning objective 3 (if needed; see https://review.docs.microsoft.com/help/learn/id-guidance-learning-objectives?branch=master)"
+prerequisites: |
+  - "TODO prerequisite 1"
+  - "TODO prerequisite 2"
+  - "TODO prerequisite 3 (if needed; see https://review.docs.microsoft.com/help/learn/id-guidance-prerequisites?branch=master"
 iconUrl: /learn/achievements/generic-badge.svg
-levels: # user input: add levels from level taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=master#level)
+levels: # see level taxonomy https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=master#level
   - # level
-roles: # user input: add roles from role taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=master#role)
+roles: # see role taxonomy https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=master#role
   - # role 1
   - # role 2
-products: # stub default from user settings; user input: add product from product taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=master#product)
+products: # see product taxonomy https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=master#product
   {{products}}
-units: # stub based on prefix, module folder, and unit names
+units:
   {{units}}
-badge: # stub based on prefix and module folder
+badge:
   uid: {{learnRepo}}.{{moduleName}}.badge

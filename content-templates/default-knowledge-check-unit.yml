@@ -1,16 +1,15 @@
 ### YamlMime:ModuleUnit
-uid: {{learnRepo}}.{{moduleName}}.{{unitName}} # stub from prefix + module folder name + default unit name 
-title: Knowledge check ### Do not edit: use "Knowledge check" as the title; also, don't add another title in the quiz element or an associated markdown page (if such a markdown page exists which is rare)
+uid: {{learnRepo}}.{{moduleName}}.{{unitName}}
+title: Knowledge check
 metadata:
   unitType: knowledge_check
-  title: "TODO" # user input: module title for browser tab and search results
-  description: "TODO" # user input: a description for site search and SEO
-  ms.date: {{msDate}} # stub with today's date
-  author: {{githubUsername}} # stub with GitHub ID from user settings
-  ms.author: {{msUser}} # stub with Microsoft alias from user settings
+  title: Knowledge check
+  description: "TODO: this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the unit; include relevant search keywords."
+  ms.date: {{msDate}}
+  author: {{githubUsername}}
+  ms.author: {{msUser}}
   ms.topic: interactive-tutorial
-  ms.prod: "TODO"
-durationInMinutes: 1 # user input: the estimate time to complete the unit
+durationInMinutes: 1
 ###########################################################################
 ###
 ### General guidance (https://review.docs.microsoft.com/learn-docs/docs/id-guidance-knowledge-check) 

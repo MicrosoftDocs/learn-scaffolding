@@ -1,5 +1,5 @@
 ### YamlMime:Module
-uid: {{learnRepo}}.{{moduleName}} # Do not edit: uid must be globally unique
+uid: {{learnRepo}}.{{moduleName}}
 metadata:
   moduleType: introduction        # Do not edit: type must be 'introduction'
   title: {{moduleTitle}}          # Do not edit: title must be "Introduction to (product)"
