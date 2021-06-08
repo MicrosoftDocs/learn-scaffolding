@@ -1,5 +1,5 @@
 ### YamlMime:Module
-uid: {{learnRepo}}.{{moduleName}} # Do not edit: uid must be globally unique
+uid: {{learnRepo}}.{{moduleName}}
 metadata:
   moduleType: introduction        # Do not edit: type must be 'introduction'
   title: {{moduleTitle}}          # Do not edit: title must be "Introduction to (product)"
@@ -8,6 +8,7 @@ metadata:
   author: {{githubUsername}}      # GitHub ID of the Microsoft employee either authoring or project-managing this content
   ms.author: {{msUser}}           # Alias     of the Microsoft employee either authoring or project-managing this content
   ms.topic: interactive-tutorial  # Do not edit: value must be "interactive-tutorial"
+  ms.prod: learning-azure         # Edit as appropriate for your portfolio area
 ###########################################################################
 ###
 ### Do not edit: title must be "Introduction to (product)"
@@ -107,8 +108,7 @@ levels:
 ### Use exact value(s) from the role taxonomy (https://review.docs.microsoft.com/en-us/help/contribute/metadata-taxonomies?branch=master#role)
 ###
 roles:
-  - # role 1
-  - # role 2
+  - developer
 ###########################################################################
 ###
 ### Specify the covered product.
