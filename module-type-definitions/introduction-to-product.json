@@ -1,5 +1,5 @@
 {
-  "moduleType": "Introduction to Product",
+  "moduleType": "Introduction-to-product",
   "moduleTemplatePath": "..\\content-templates\\introduction-to-product\\index.yml",
   "moduleTitleTemplate": "Introduction to {product}",
   "units":[
