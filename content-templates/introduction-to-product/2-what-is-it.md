@@ -98,7 +98,7 @@ TODO: Add your visual element
             2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph.
             3. Visual like an image, table, list, code sample, or blockquote (image preferred).
 
-    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
+    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=main)
 -->
 
 <!-- Pattern for simple chunks (repeat as needed) -->

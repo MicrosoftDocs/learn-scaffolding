@@ -8,7 +8,7 @@
 
     Recommended: visual like an image (preferred), table, list, etc.
 
-    [Introduction unit guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#rule-use-the-standard-module-introduction-format)
+    [Introduction unit guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=main#rule-use-the-standard-module-introduction-format)
 -->
 TODO: add your topic sentences(s)
 TODO: add your visual element
