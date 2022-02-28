@@ -6,7 +6,7 @@
 
     Example: "Organizations often have multiple storage accounts to let them implement different sets of requirements."
 
-    [Learning-unit introduction guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#rule-use-the-standard-learning-unit-introduction-format)
+    [Learning-unit introduction guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=main#rule-use-the-standard-learning-unit-introduction-format)
 -->
 TODO: add your topic sentences(s)
 
@@ -47,7 +47,7 @@ TODO: add a visual element
         2. 1-3 paragraphs of text
         3. Visual like an image, table, list, code sample, or blockquote.
 
-    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=master)
+    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=main)
 -->
 
 <!-- Pattern for simple chunks (repeat as needed) -->
