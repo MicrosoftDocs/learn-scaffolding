@@ -93,7 +93,7 @@ prerequisites: |
   - # prerequisite 3
 ###########################################################################
 ###
-### Replace with the custom module icon when available
+### Do not edit: will be replaced by the module icon when available
 ###
 iconUrl: /learn/achievements/generic-badge.svg
 ###########################################################################
