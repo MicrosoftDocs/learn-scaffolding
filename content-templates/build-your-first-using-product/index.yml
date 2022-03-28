@@ -24,16 +24,12 @@ title: {{moduleTitle}}
 ###   - To keep it brief, avoid teaching, omit motivation, and remove "learn", "in this module", and title words.
 ###
 ### Sentence 1:
-###   Goal: List key features of the product covered here. Omit less-important parts or group low-level parts into one higher-level element.
-###   Pattern: "Describe the (list of covered features) that (perform the key product use-case)."
-###   Example 1: "Describe the function of (connectors, triggers, and actions) and show how you (combine them to create an app)."
-###   Example 2: "Survey GitHub (notifications, branches, commits, and pull requests) that help you (collaborate, build, and deploy software)."
+###   Goal: Include key technologies
+###   Example (Logic Apps): "Define a workflow using built-in triggers, actions, and conditional operators."
 ###
 ### Sentence 2:
-###   Goal: Describe how the module will achieve the 'evaluate' task.
-###   Pattern: "Characterize the types of (problem) that (product) can (solve)".
-###   Example 1: "Characterize the types of (business processes) that (Logic Apps) can (automate)."
-###   Example 2: "Determine the types of (software projects) for which (GitHub) is a (good development platform)."
+###   Goal: Include key sub-tasks
+###   Example (Logic Apps): "Your workflow will run automatically when data is available, process the data in the cloud, record results in a database, and send email notifications."
 ###
 ### Detailed guidance: https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=main
 ###
@@ -46,15 +42,15 @@ summary: ""
 ###
 ### Learning Objective 1:
 ###   Goal: Align to the verb 'prepare' as in "plan or get things ready to do the exercise"
-###   Example: "Design a workflow to solve a business problem."
+###   Example (Logic Apps): "Design a workflow to solve a business problem."
 ###
 ### Learning Objective 2:
 ###   Goal: Align to the verb 'apply' as in "do the task in the exercise"
-###   Example: "Implement a workflow from the standard triggers and actions"
+###   Example (Logic Apps): "Implement a workflow from the standard triggers and actions"
 ###
 ### Learning Objective 3:
 ###   Goal: Align to the verb 'validate' as in "check your work"
-###   Example: "Run a workflow in the cloud to validate the results"
+###   Example (Logic Apps): "Run a workflow in the cloud to validate the results"
 ###
 ### Notes:
 ###   - The YAML element name here is 'abstract' but it must contain your Learning Objectives.
