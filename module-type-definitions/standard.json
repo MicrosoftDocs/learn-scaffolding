@@ -25,16 +25,30 @@
       "unitTitleTemplate": "Enter exercise title"
     },
     {
+      "type": "learning-content",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "scaffoldFilename": "4-learning-content",
+      "unitTitleTemplate": "Enter learning content title"
+    },
+    {
+      "type": "exercise",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-exercise-unit.md",
+      "scaffoldFilename": "5-exercise",
+      "unitTitleTemplate": "Enter exercise title"
+    },
+    {
       "type": "knowledge-check",
       "moduleUnitTemplatePath": "..\\content-templates\\default-knowledge-check-unit.yml",
-      "scaffoldFilename": "4-knowledge-check",
+      "scaffoldFilename": "6-knowledge-check",
       "unitTitleTemplate": "Knowledge check"
     },
     {
       "type": "summary",
       "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
-      "scaffoldFilename": "5-summary",
+      "scaffoldFilename": "7-summary",
       "unitTitleTemplate": "Summary"
     }
   ]
