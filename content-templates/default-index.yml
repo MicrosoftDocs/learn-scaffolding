@@ -27,6 +27,8 @@ roles: # see role taxonomy https://review.docs.microsoft.com/help/contribute/met
   - developer
 products: # see product taxonomy https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#product
   {{products}}
+subjects: # see subject taxonomy https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#subject
+- cloud-computing
 units:
   {{units}}
 badge:
