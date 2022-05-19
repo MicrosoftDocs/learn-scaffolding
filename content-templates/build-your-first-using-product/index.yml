@@ -95,20 +95,27 @@ levels:
   - beginner
 ###########################################################################
 ###
-### Specify the target role(s).
+### Specify the target roles.
 ###   - Set the 'roles' to match the role targeted by your hands-on exercise.
 ###
-### Use exact value(s) from the role taxonomy (https://review.docs.microsoft.com/en-us/help/contribute/metadata-taxonomies?branch=main#role)
+### Use value(s) from the role taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#role)
 ###
 roles:
   - developer
 ###########################################################################
 ###
-### Specify the covered product.
-### Use the exact value from the product taxonomy (https://review.docs.microsoft.com/en-us/help/contribute/metadata-taxonomies?branch=main#product)
+### Specify the covered products.
+### Use value(s) from the product taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#product)
 ###
 products:
   {{products}}
+###########################################################################
+###
+### Specify the subject areas.
+### Use value(s) from the subject taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#subject)
+###
+subjects:
+- cloud-computing
 ###########################################################################
 ###
 ### The units will be populated automatically during scaffold generation.
