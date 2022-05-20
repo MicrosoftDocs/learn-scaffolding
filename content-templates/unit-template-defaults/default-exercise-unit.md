@@ -74,22 +74,18 @@ TODO: describe the end-state
 1. <!-- Step 2 -->
 1. <!-- Step n -->
 
-<!-- 5. Validation chunk -------------------------------------------------------------------------------------
+<!-- 5. Validation -------------------------------------------------------------------------------------------
 
-    Goal: Helps the learner to evaluate if they completed the exercise correctly.
+    Goal: Enables the learner to evaluate if they completed the exercise correctly. Feedback like this is critical for learning.
 
-    Structure: Break the steps into 'chunks' where each chunk has three things:
-        1. A heading of "## Check your work"
-        2. An introductory paragraph describing how they'll validate their work at a high level
-        3. Numbered steps (when the learner needs to perform multiple steps to verify if they were successful)
-        4. Video of an expert performing the exact steps of the exercise (optional)
+    Structure:
+        1. A heading of "## Check your work".
+        2. An introductory paragraph describing how they'll validate their work at a high level.
+        3. Numbered steps (if the learner needs to perform multiple steps to verify if they were successful).
+        4. Video of an expert performing the exact steps of the exercise (optional).
 
     Example:
-        Heading:
-            "Examine the results of your Twitter trigger"
-        Introduction:
-             "At this point, our logic app is scanning Twitter every minute for tweets containing the search text. To verify the app is running and working correctly, we'll look at the Runs history table."
-        Steps:
+         "At this point, the app is scanning Twitter every minute for tweets containing the search text. To verify the app is running and working correctly, we'll look at the Runs history table."
              "1. Select Overview in the navigation menu.
               2. Select Refresh once a minute until you see a row in the Runs history table.
               ...

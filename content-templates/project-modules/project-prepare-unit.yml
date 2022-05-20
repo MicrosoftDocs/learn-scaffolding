@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: {{learnRepo}}.{{moduleName}}.{{unitName}}
+title: Prepare
+metadata:
+  unitType: {{patternType}}
+  title: Prepare
+  description: "Project overview and setup requirements."
+  ms.date: {{msDate}}
+  author: {{githubUsername}}
+  ms.author: {{msUser}}
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure # Edit as appropriate for your portfolio area
+durationInMinutes: 1
+content: |
+  [!include[](includes/{{unitName}}.md)]
