@@ -52,7 +52,7 @@ List of sub-tasks
         "To complete the project, you'll need a Twitter account, an Azure account, and a local installation of Visual Studio Code.
 
         ### Create Twitter account
-            Your Logic App needs to pull new tweets from Twitter using the standard Twitter Connector. Under the hood, the Twitter Connector uses the Twitter API. The Twitter requires authentication via a username and password, which means that you'll need to have a Twitter account.
+            Your Logic App needs to pull new tweets from Twitter using the standard Twitter Connector. Under the hood, the Twitter Connector uses the Twitter API. The Twitter API requires authentication via a username and password, which means that you'll need to have a Twitter account.
             1. Go to <link> and create an account.
             1. Record your username and password, you'll need it later.
 

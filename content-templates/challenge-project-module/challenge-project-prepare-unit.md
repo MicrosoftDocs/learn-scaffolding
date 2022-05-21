@@ -14,14 +14,14 @@ TODO: add your topic sentences(s)
 
     Goal: Describe the success criteria for the entire project. Avoid hints and guidance on how they'll achieve the goal.
 
-    Heading: "Project overview"
+    Heading: "Project specification"
 
     Structure: The specification format is at the author's discretion and will vary based on project type. For example, you could provide any or all of the following:
         - Functional specification for what this part of the project should do when complete.
         - Acceptance criteria (functionality, capacity, resilience, performance, etc.).
         - List of the technologies they should use.
 -->
-## Project overview
+## Project specification
 TODO
 
 <!-- 3. Setup -------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ TODO
         "To complete the project, you'll need a Twitter account, an Azure account, and a local installation of Visual Studio Code.
 
         ### Create Twitter account
-            Your Logic App needs to pull new tweets from Twitter using the standard Twitter Connector. Under the hood, the Twitter Connector uses the Twitter API. The Twitter requires authentication via a username and password, which means that you'll need to have a Twitter account.
+            Your Logic App needs to pull new tweets from Twitter using the standard Twitter Connector. Under the hood, the Twitter Connector uses the Twitter API. The Twitter API requires authentication via a username and password, which means that you'll need to have a Twitter account.
             1. Go to <link> and create an account.
             1. Record your username and password, you'll need it later.
 
