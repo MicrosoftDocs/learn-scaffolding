@@ -26,29 +26,34 @@ TODO
 
 <!-- 3. Setup -------------------------------------------------------------------------------------
 
-    Goal: Guide the learner though any needed setup like required accounts or local software installations.
+    Goal: Guide the learner though any needed setup such as required accounts or local software installations.
 
     Structure:
-        1. An H2 titled "Setup"
+        1. H2 of "Setup"
         2. 1 paragraph of text giving a conceptual overview of the needed setup
         3. One H3 per setup item explaining the need and giving instructions.
+            - Use "Create <service> account" as the H3 for account creation.
+            - Use "Install <product> as the H3 for software installation.
+            - For setup items beyond accounts and software, use an H3 that follows the "<verb> <item>" pattern.
 
     Example:
         "To complete the project, you'll need a Twitter account, an Azure account, and a local installation of Visual Studio Code.
 
         ### Create Twitter account
-            Your Logic App needs to pull new tweets from Twitter using the standard Twitter Connector. Under the hood, the Twitter Connector uses the Twitter API. The Twitter API requires authentication via a username and password, which means that you'll need to have a Twitter account.
+            Your Logic App needs to pull new tweets from Twitter using the Twitter connector. Under the hood, the Twitter connector uses the Twitter API. The Twitter API requires authentication via a username and password, which means that you'll need a Twitter account.
             1. Go to <link> and create an account.
             1. Record your username and password, you'll need it later.
 
+        ...
+
         ### Install Visual Studio Code
-            You'll use Visual Studio Code to create your Logic App. All your work will be done directly in VS Code: connect to your Azure account, select your Azure subscription, and build your app. This section guides you through the installation and setup of VS Code on your local machine.
+            You'll use Visual Studio Code to create your Logic App. All your work will be done directly in VS Code: connecting to your Azure account, selecting your Azure subscription, and building your app. This section guides you through the installation and setup of VS Code on your local machine.
             1. Go to <link> and follow the installation steps for your platform.
             1. Go to <link> and follow the steps to connect to your Azure account from VS Code.
-            1. Go to <link> and follow the steps to select your Azure subscription.
+            1. Go to <link> and follow the steps to select your Azure subscription."
 
     Note: The "Setup" section is optional. If the project doesn't require any setup, omit this entire section.
-    In that case, also remove the "Project overview" H2 (while leaving the content of that H2) to avoid a page
+    In that case, also remove the "Project specification" H2 (while leaving the content of that H2) to avoid a page
     containing a single H2.
 -->
 ## Setup

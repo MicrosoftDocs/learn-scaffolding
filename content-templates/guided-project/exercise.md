@@ -15,7 +15,7 @@ TODO: add your scenario image
 
     Goal: State concisely what they'll implement here; that is, describe the end-state after completion
 
-    Heading: a separate heading is optional; you can combine this with the sub-task into a single paragraph
+    Heading: a separate heading is optional; you can combine this with the scenario sub-task into a single paragraph
 
     Example: "Here, you will create a storage account with settings appropriate to hold this mission-critical business data."
 
@@ -64,10 +64,10 @@ TODO: describe the end-state
 
 <!-- 4. Validation -------------------------------------------------------------------------------------------
 
-    Goal: Enables the learner to evaluate if they completed the exercise correctly. Feedback like this is critical for learning.
+    Goal: Enables the learner to evaluate if they completed the exercise correctly. This feedback is critical for learning.
 
     Structure:
-        1. A heading of "## Check your work".
+        1. H2 of "Check your work".
         2. An introductory paragraph describing how they'll validate their work at a high level.
         3. Numbered steps (if the learner needs to perform multiple steps to verify if they were successful).
         4. Video of an expert performing the exact steps of the exercise (optional).
