@@ -33,7 +33,7 @@ TODO
         2. 1 paragraph of text giving a conceptual overview of the needed setup
         3. One H3 per setup item explaining the need and giving instructions.
             - Use "Create <service> account" as the H3 for account creation.
-            - Use "Install <product> as the H3 for software installation.
+            - Use "Install <product>" as the H3 for software installation.
             - For setup items beyond accounts and software, use an H3 that follows the "<verb> <item>" pattern.
 
     Example:

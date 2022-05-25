@@ -1,6 +1,6 @@
 <!-- 1. Introduction -------------------------------------------------------------------------------------
 
-    Goal: Describe the end state of the project after this exercise. Ideally, each exercise unit will create a feeling of closure in the learner. That is, they'll have achieved something that demonstrate progress towards the overall goal. For example, if they're building software, maybe the app will run and perform part of the target functionality. This introductory paragraph summarizes what part(s) of the project will be completed in this unit.
+    Goal: Describe the end state of the project after this exercise. Ideally, each exercise unit will create a feeling of closure in the learner. That is, they'll have achieved something that demonstrates progress towards the overall goal. For example, if they're building software, maybe the app will run and perform part of the target functionality. This introductory paragraph summarizes what part(s) of the project will be completed in this unit.
 
     Heading: none
 

@@ -1,6 +1,6 @@
 <!-- 1. Scenario sub-task --------------------------------------------------------------------------------
 
-    Goal: Describe the part of the scenario covered in this exercise
+    Goal: Describe the part of the scenario covered in this exercise.
 
     Heading: none
 
