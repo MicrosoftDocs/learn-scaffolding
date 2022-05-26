@@ -1,7 +1,7 @@
 {
-  "moduleType": "standard",
-  "moduleTemplatePath": "..\\content-templates\\default-units\\index.yml",
-  "moduleTitleTemplate": "",
+  "moduleType": "guided-project",
+  "moduleTemplatePath": "..\\content-templates\\guided-project\\index.yml",
+  "moduleTitleTemplate": "Guided project - task",
   "units":[
     {
       "type": "introduction",
@@ -12,29 +12,29 @@
     },
     {
       "type": "learning-content",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-units\\learning-content.md",
-      "scaffoldFilename": "2-learning-content",
-      "unitTitleTemplate": "Enter learning content title"
+      "moduleUnitTemplatePath": "..\\content-templates\\guided-project\\prepare.yml",
+      "contentTemplatePath": "..\\content-templates\\guided-project\\prepare.md",
+      "scaffoldFilename": "2-prepare",
+      "unitTitleTemplate": "Prepare"
     },
     {
       "type": "exercise",
       "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-units\\exercise.md",
+      "contentTemplatePath": "..\\content-templates\\guided-project\\exercise.md",
       "scaffoldFilename": "3-exercise",
       "unitTitleTemplate": "Enter exercise title"
     },
     {
-      "type": "learning-content",
+      "type": "exercise",
       "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-units\\learning-content.md",
-      "scaffoldFilename": "4-learning-content",
-      "unitTitleTemplate": "Enter learning content title"
+      "contentTemplatePath": "..\\content-templates\\guided-project\\exercise.md",
+      "scaffoldFilename": "4-exercise",
+      "unitTitleTemplate": "Enter exercise title"
     },
     {
       "type": "exercise",
       "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-units\\exercise.md",
+      "contentTemplatePath": "..\\content-templates\\guided-project\\exercise.md",
       "scaffoldFilename": "5-exercise",
       "unitTitleTemplate": "Enter exercise title"
     },

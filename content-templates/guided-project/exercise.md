@@ -1,20 +1,8 @@
-<!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
+<!-- 1. Scenario sub-task --------------------------------------------------------------------------------
 
-    Goal: remind the learner of the core idea(s) from the preceding learning-content unit (without mentioning the details of the exercise or the scenario)
+    Goal: Describe the part of the scenario covered in this exercise.
 
     Heading: none
-
-    Example: "A storage account represents a collection of settings that implement a business policy."
-
-    [Exercise introduction guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=main#rule-use-the-standard-exercise-unit-introduction-format)
--->
-TODO: add your topic sentences(s)
-
-<!-- 2. Scenario sub-task --------------------------------------------------------------------------------
-
-    Goal: Describe the part of the scenario covered in this exercise
-
-    Heading: a separate heading is optional; you can combine this with the topic sentence into a single paragraph
 
     Example: "Recall that in the chocolate-manufacturer example, there would be a separate storage account for the private business data. There were two key requirements for this account: geographically-redundant storage because the data is business-critical and at least one location close to the main factory."
 
@@ -23,11 +11,11 @@ TODO: add your topic sentences(s)
 TODO: add your scenario sub-task
 TODO: add your scenario image
 
-<!-- 3. Task performed in the exercise ---------------------------------------------------------------------
+<!-- 2. Task performed in the exercise ---------------------------------------------------------------------
 
     Goal: State concisely what they'll implement here; that is, describe the end-state after completion
 
-    Heading: a separate heading is optional; you can combine this with the sub-task into a single paragraph
+    Heading: a separate heading is optional; you can combine this with the scenario sub-task into a single paragraph
 
     Example: "Here, you will create a storage account with settings appropriate to hold this mission-critical business data."
 
@@ -35,7 +23,7 @@ TODO: add your scenario image
 -->
 TODO: describe the end-state
 
-<!-- 4. Chunked steps -------------------------------------------------------------------------------------
+<!-- 3. Chunked steps -------------------------------------------------------------------------------------
 
     Goal: List the steps they'll do to complete the exercise.
 
@@ -74,22 +62,18 @@ TODO: describe the end-state
 1. <!-- Step 2 -->
 1. <!-- Step n -->
 
-<!-- 5. Validation chunk -------------------------------------------------------------------------------------
+<!-- 4. Validation -------------------------------------------------------------------------------------------
 
-    Goal: Helps the learner to evaluate if they completed the exercise correctly.
+    Goal: Enables the learner to evaluate if they completed the exercise correctly. This feedback is critical for learning.
 
-    Structure: Break the steps into 'chunks' where each chunk has three things:
-        1. A heading of "## Check your work"
-        2. An introductory paragraph describing how they'll validate their work at a high level
-        3. Numbered steps (when the learner needs to perform multiple steps to verify if they were successful)
-        4. Video of an expert performing the exact steps of the exercise (optional)
+    Structure:
+        1. H2 of "Check your work".
+        2. An introductory paragraph describing how they'll validate their work at a high level.
+        3. Numbered steps (if the learner needs to perform multiple steps to verify if they were successful).
+        4. Video of an expert performing the exact steps of the exercise (optional).
 
     Example:
-        Heading:
-            "Examine the results of your Twitter trigger"
-        Introduction:
-             "At this point, our logic app is scanning Twitter every minute for tweets containing the search text. To verify the app is running and working correctly, we'll look at the Runs history table."
-        Steps:
+         "At this point, the app is scanning Twitter every minute for tweets containing the search text. To verify the app is running and working correctly, we'll look at the Runs history table."
              "1. Select Overview in the navigation menu.
               2. Select Refresh once a minute until you see a row in the Runs history table.
               ...

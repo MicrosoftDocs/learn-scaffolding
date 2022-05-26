@@ -1,66 +1,66 @@
 {
   "moduleType": "choose",
-  "moduleTemplatePath": "..\\content-templates\\default-index.yml",
+  "moduleTemplatePath": "..\\content-templates\\default-units\\index.yml",
   "moduleTitleTemplate": "Choose the best {product category} for {your purpose}",
   "units":[
     {
       "type": "introduction",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-introduction-unit.md",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-units\\introduction.md",
       "scaffoldFilename": "1-introduction",
       "unitTitleTemplate": "Introduction"
     },
     {
       "type": "learning-content",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-units\\learning-content.md",
       "scaffoldFilename": "2-identify-{product}-options",
       "unitTitleTemplate": "Product options"
     },
     {
       "type": "learning-content",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-units\\learning-content.md",
       "scaffoldFilename": "3-analyze-decision-criteria",
       "unitTitleTemplate": "Decision criteria"
     },
     {
       "type": "learning-content",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-units\\learning-content.md",
       "scaffoldFilename": "4-use-{product1}"
     },
     {
       "type": "learning-content",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-units\\learning-content.md",
       "scaffoldFilename": "5-use-{product2}",
       "unitTitleTemplate": "Use {product} to {solve problem}"
     },
     {
       "type": "learning-content",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-units\\learning-content.md",
       "scaffoldFilename": "6-use-{product3}",
       "unitTitleTemplate": "Use {product} to {solve problem}"
     },
     {
       "type": "learning-content",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-learning-content-unit.md",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-units\\learning-content.md",
       "scaffoldFilename": "7-use-{product4}",
       "unitTitleTemplate": "Use {product} to {solve problem}"
     },
     {
       "type": "knowledge-check",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-knowledge-check-unit.yml",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\knowledge-check-unit.yml",
       "scaffoldFilename": "8-knowledge-check",
       "unitTitleTemplate": "Knowledge check"
     },
     {
       "type": "summary",
-      "moduleUnitTemplatePath": "..\\content-templates\\default-unit.yml",
-      "contentTemplatePath": "..\\content-templates\\default-summary-unit.md",
+      "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
+      "contentTemplatePath": "..\\content-templates\\default-units\\summary.md",
       "scaffoldFilename": "9-summary",
       "unitTitleTemplate": "Summary"
     }
