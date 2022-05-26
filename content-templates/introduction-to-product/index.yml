@@ -88,9 +88,9 @@ abstract: |
 ###   Prerequisite 2: "Basic knowledge of REST services and APIs"
 ###
 prerequisites: |
-  - # prerequisite 1
-  - # prerequisite 2
-  - # prerequisite 3
+  - TODO prerequisite 1
+  - TODO prerequisite 2
+  - TODO prerequisite 3
 ###########################################################################
 ###
 ### Do not edit: will be replaced by the module icon when available
@@ -122,7 +122,7 @@ products:
 ### Use value(s) from the subject taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#subject)
 ###
 subjects:
-- cloud-computing
+  - cloud-computing
 ###########################################################################
 ###
 ### Do not edit: the unit names and order are exactly determined by the "Introduction to (product)" module pattern
@@ -131,7 +131,7 @@ units: # stub based on prefix, module folder, and unit names
   {{units}}
 ###########################################################################
 ###
-### TODO: verify if this should start as temporary/default badge
+### TODO verify your badge
 ###
 badge:
   uid: {{learnRepo}}.{{moduleName}}.badge

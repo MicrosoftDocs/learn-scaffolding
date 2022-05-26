@@ -3,7 +3,7 @@ uid: {{learnRepo}}.{{moduleName}}
 metadata:
   moduleType: {{patternType}}
   title: {{moduleTitle}}
-  description: "TODO: this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the module; include relevant search keywords."
+  description: "TODO this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the module; include relevant search keywords."
   ms.date: {{msDate}}
   author: {{githubUsername}}
   ms.author: {{msUser}}
@@ -11,9 +11,10 @@ metadata:
   ms.prod: learning-azure # Edit as appropriate for your portfolio area
 title: {{moduleTitle}}
 
-summary: "TODO: 2 sentences, 20-35 words, don't teach or motivate, avoid using 'learn', don't duplicate the title, include the note below; see https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=main
+summary: |
+  TODO 2 sentences, 20-35 words, don't teach or motivate, avoid using 'learn', don't duplicate the title, include the note below; see https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=main
   > [!NOTE]
-  > This is a **_Challenge Project_** module where you complete an end-to-end project using high-level guidance; there are no step-by-step instructions."
+  > This is a **_Challenge Project_** module where you complete an end-to-end project using high-level guidance; there are no step-by-step instructions.
 
 abstract: |
   In this module, you'll demonstrate your ability to:
@@ -32,7 +33,7 @@ roles: # see role taxonomy https://review.docs.microsoft.com/help/contribute/met
 products: # see product taxonomy https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#product
   {{products}}
 subjects: # see subject taxonomy https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#subject
-- cloud-computing
+  - cloud-computing
 units:
   {{units}}
 badge:

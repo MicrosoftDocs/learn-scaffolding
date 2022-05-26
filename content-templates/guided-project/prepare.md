@@ -82,11 +82,11 @@ List of sub-tasks
 ## Setup
 Strong lead sentence stating the categories of what's needed: accounts, software, etc.
 Remainder of paragraph if needed.
-### Create <service> account (repeat as needed)
+### Create (service) account (repeat as needed)
 Strong lead sentence stating the required account.
 Remainder of paragraph explaining why this is needed and what it will be used for.
 Inline instructions or link to setup instructions.
-### Install <product> (repeat as needed)
+### Install (product) (repeat as needed)
 Strong lead sentence stating the product needing installation.
 Remainder of paragraph explaining why this is needed and what it will be used for.
 Inline instructions or link to setup instructions.

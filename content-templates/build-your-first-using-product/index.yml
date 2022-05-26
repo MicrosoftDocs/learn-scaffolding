@@ -80,8 +80,8 @@ abstract: |
 ###
 prerequisites: |
   - Knowledge of what (product) is and how it works at the beginner level
-  - # prerequisite 2
-  - # prerequisite 3
+  - TODO prerequisite 2
+  - TODO prerequisite 3
 ###########################################################################
 ###
 ### Replace with the custom module icon when available
@@ -115,7 +115,7 @@ products:
 ### Use value(s) from the subject taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#subject)
 ###
 subjects:
-- cloud-computing
+  - cloud-computing
 ###########################################################################
 ###
 ### The units will be populated automatically during scaffold generation.
@@ -124,7 +124,7 @@ units:
   {{units}}
 ###########################################################################
 ###
-### TODO: verify if this should start as temporary/default badge
+### TODO verify your badge
 ###
 badge:
   uid: {{learnRepo}}.{{moduleName}}.badge
