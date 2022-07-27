@@ -2,7 +2,6 @@
 uid: {{learnRepo}}.{{moduleName}}.{{unitName}}
 title: Prepare
 metadata:
-  unitType: {{patternType}}
   title: Prepare
   description: "Project overview and setup requirements."
   ms.date: {{msDate}}

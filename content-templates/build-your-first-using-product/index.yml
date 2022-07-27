@@ -1,7 +1,6 @@
 ### YamlMime:Module
 uid: {{learnRepo}}.{{moduleName}}
 metadata:
-  moduleType: build-your-first-using-product # Do not edit: type must be 'build-your-first-using-product'
   title: {{moduleTitle}}                     # Title must be "(verb) your first (thing) by using (product)"
   description: "TODO"                        # Copy your 'apply' Learning Objective here (see below)
   ms.date: {{msDate}}                        # Date of commit to GitHub (do not use target publication date, cannot be in the future)
