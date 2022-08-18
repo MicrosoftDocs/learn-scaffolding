@@ -1,7 +1,6 @@
 ### YamlMime:Module
 uid: {{learnRepo}}.{{moduleName}}
 metadata:
-  moduleType: introduction        # Do not edit: type must be 'introduction'
   title: {{moduleTitle}}          # Do not edit: title must be "Introduction to (product)"
   description: "TODO"             # Copy your 'evaluate' Learning Objective here (see below)
   ms.date: {{msDate}}             # Date of commit to GitHub (do not use target publication date, cannot be in the future)
