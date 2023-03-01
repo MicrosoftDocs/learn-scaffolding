@@ -1,6 +1,6 @@
 {
   "moduleType": "choose",
-  "moduleTemplatePath": "..\\content-templates\\default-units\\index.yml",
+  "moduleTemplatePath": "..\\content-templates\\choose-best-product\\index.yml",
   "moduleTitleTemplate": "Choose the best {product category} for {your purpose}",
   "units":[
     {

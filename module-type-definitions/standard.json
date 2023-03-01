@@ -1,6 +1,6 @@
 {
   "moduleType": "standard",
-  "moduleTemplatePath": "..\\content-templates\\default-units\\index.yml",
+  "moduleTemplatePath": "..\\content-templates\\standard-task-based\\index.yml",
   "moduleTitleTemplate": "",
   "units":[
     {

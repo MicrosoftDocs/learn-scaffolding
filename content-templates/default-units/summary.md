@@ -50,11 +50,11 @@ TODO: describe the business impact
 
 <!-- 5. References (optional) ----------------------------------------------------
 
-    Goal: Provide a few recommendations for further study via a bulleted list of links. This is optional and intended to be used sparingly.        - use the target page title as the text for your link
-        - do not include other text such as a description
+    Goal: Provide a few recommendations for further study via a bulleted list of links. This is optional and intended to be used sparingly.        
+        - use descriptive link text so you don't need to include other text such as a description
         - prefer other first-party sites like Docs reference pages
+        - generally avoid linking to other Learn training content ("next steps" recommendations are generated automatically)
         - link to third-party sites only when they are trusted and authoritative
-        - do not link to other Learn content ("next steps" recommendations are generated automatically)
         - avoid linking to opinion sites such as blog posts
 
     Heading: "## References"
