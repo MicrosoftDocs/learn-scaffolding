@@ -6,7 +6,7 @@ metadata:
   ms.date: {{msDate}}
   author: {{githubUsername}}
   ms.author: {{msUser}}
-  ms.topic: interactive-tutorial
+  ms.topic: module-guided-project # Please don't edit, used for our analytics
   ms.prod: learning-azure # Edit as appropriate for your portfolio area
 title: {{moduleTitle}}
 

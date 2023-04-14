@@ -39,21 +39,20 @@ TODO: describe the business impact
 
 <!-- 4. References (optional) ----------------------------------------------------
 
-    Goal: Provide a few recommendations for further study via a bulleted list of links. This is optional and intended to be used sparingly.
-        - use the target page title as the text for your link
-        - do not include other text such as a description
+    Goal: Provide a few recommendations for further study via a bulleted list of links. This is optional and intended to be used sparingly.        
+        - use descriptive link text so you don't need to include other text such as a description
         - prefer other first-party sites like Docs reference pages
+        - generally avoid linking to other Learn training content ("next steps" recommendations are generated automatically)
         - link to third-party sites only when they are trusted and authoritative
-        - do not link to other Learn content ("next steps" recommendations are generated automatically)
         - avoid linking to opinion sites such as blog posts
 
     Heading: "## References"
 
     Example:
-        "References
-        * [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
-        * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-        * [Manage access to billing information for Azure](https://docs.microsoft.com/azure/billing/billing-manage-access)"
+        "## References
+          * [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
+          * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
+          * [Manage access to billing information for Azure](https://docs.microsoft.com/azure/billing/billing-manage-access)"
  -->
 
 <!-- Do not include any other content -->
