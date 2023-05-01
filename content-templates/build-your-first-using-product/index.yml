@@ -1,13 +1,19 @@
 ### YamlMime:Module
 uid: {{learnRepo}}.{{moduleName}}
 metadata:
-  title: {{moduleTitle}}                     # Title must be "(verb) your first (thing) by using (product)"
-  description: "TODO"                        # Copy your 'apply' Learning Objective here (see below)
-  ms.date: {{msDate}}                        # Date of commit to GitHub (do not use target publication date, cannot be in the future)
-  author: {{githubUsername}}                 # GitHub ID of the Microsoft employee either authoring or project-managing this content
-  ms.author: {{msUser}}                      # Alias     of the Microsoft employee either authoring or project-managing this content
-  ms.topic: module-build-your-first          # Please don't edit, used for our analytics
-  ms.prod: learning-azure                    # Edit as appropriate for your portfolio area
+  title: {{moduleTitle}}            # Title must be "(verb) your first (thing) by using (product)"
+  description: "TODO"               # Copy your 'apply' Learning Objective here (see below)
+  ms.date: {{msDate}}               # Date of commit to GitHub (do not use target publication date, cannot be in the future)
+  author: {{githubUsername}}        # GitHub ID of the Microsoft employee either authoring or project-managing this content
+  ms.author: {{msUser}}             # Alias     of the Microsoft employee either authoring or project-managing this content
+  ms.topic: module-build-your-first # Please don't edit, used for our analytics
+### Keep either ms.prod or ms.service, but not both
+### The list of ms.prod    values is here: https://review.learn.microsoft.com/help/platform/metadata-taxonomies?branch=main#msprod
+### The list of ms.service values is here: https://review.learn.microsoft.com/help/platform/metadata-taxonomies?branch=main#msservice
+###
+  ms.prod: TODO
+  ms.service: TODO
+
 ###########################################################################
 ###
 ### Title must be "(verb) your first (thing) by using (product)"
@@ -100,11 +106,11 @@ levels:
 ### Use value(s) from the role taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#role)
 ###
 roles:
-  - developer
+  - TODO
 ###########################################################################
 ###
-### Specify the covered products.
-### Use value(s) from the product taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#product)
+### Specify the covered product.
+### Use a value from the product taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#product)
 ###
 products:
   {{products}}
@@ -114,7 +120,7 @@ products:
 ### Use value(s) from the subject taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=main#subject)
 ###
 subjects:
-  - cloud-computing
+  - TODO
 ###########################################################################
 ###
 ### The units will be populated automatically during scaffold generation.
