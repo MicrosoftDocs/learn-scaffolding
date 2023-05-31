@@ -1,7 +1,9 @@
 ### YamlMime:Module
-uid: {{learnRepo}}.{{moduleName}}
+uid: |
+  {{learnRepo}}.{{moduleName}}
 metadata:
-  title: {{moduleTitle}}
+  title: |
+    {{moduleTitle}}
   description: "TODO this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the module; include relevant search keywords."
   ms.date: {{msDate}}
   author: {{githubUsername}}
@@ -20,7 +22,8 @@ metadata:
   ms.prod: TODO
   ms.service: TODO
 
-title: {{moduleTitle}}
+title: |
+  {{moduleTitle}}
 
 summary: |
   TODO 2 sentences, 20-35 words, don't teach or motivate, avoid using 'learn', don't duplicate the title, include the note below; see https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=main
@@ -48,4 +51,5 @@ subjects: # see subject taxonomy https://review.docs.microsoft.com/help/contribu
 units:
   {{units}}
 badge:
-  uid: {{learnRepo}}.{{moduleName}}.badge
+  uid: |
+    {{learnRepo}}.{{moduleName}}.badge
