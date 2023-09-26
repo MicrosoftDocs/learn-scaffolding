@@ -1,6 +1,5 @@
 ### YamlMime:Module
-uid: |
-  {{learnRepo}}.{{moduleName}}
+uid: '%{learnRepo}.%{moduleName}'
 metadata:
   title: |
     {{moduleTitle}}            # Title must be "(verb) your first (thing) by using (product)"
