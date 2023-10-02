@@ -1,6 +1,5 @@
 ### YamlMime:Module
-uid: |
-  {{learnRepo}}.{{moduleName}}
+uid: ${{learnRepo}}.{{moduleName}}
 metadata:
   title: |
     {{moduleTitle}}
