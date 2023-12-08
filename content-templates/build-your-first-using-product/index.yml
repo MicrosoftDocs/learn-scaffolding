@@ -1,8 +1,7 @@
 ### YamlMime:Module
 uid: ${{learnRepo}}.{{moduleName}}
 metadata:
-  title: |
-    {{moduleTitle}}            # Title must be "(verb) your first (thing) by using (product)"
+  title: ${{moduleTitle}}            # Title must be "(verb) your first (thing) by using (product)"
   description: "TODO"               # Copy your 'apply' Learning Objective here (see below)
   ms.date: {{msDate}}               # Date of commit to GitHub (do not use target publication date, cannot be in the future)
   author: {{githubUsername}}        # GitHub ID of the Microsoft employee either authoring or project-managing this content
@@ -19,8 +18,7 @@ metadata:
 ###
 ### Title must be "(verb) your first (thing) by using (product)"
 ###
-title: |
-  {{moduleTitle}}
+title: ${{moduleTitle}}
 ###########################################################################
 ###
 ### Summary
@@ -134,5 +132,4 @@ units:
 ### TODO verify your badge
 ###
 badge:
-  uid: |
-    {{learnRepo}}.{{moduleName}}.badge
+  uid: ${{learnRepo}}.{{moduleName}}.badge
