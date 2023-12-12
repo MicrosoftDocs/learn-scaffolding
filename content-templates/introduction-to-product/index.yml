@@ -1,8 +1,7 @@
 ### YamlMime:Module
 uid: ${{learnRepo}}.{{moduleName}}
 metadata:
-  title: |
-    {{moduleTitle}}            # Do not edit: title must be "Introduction to (product)"
+  title: ${{moduleTitle}}            # Do not edit: title must be "Introduction to (product)"
   description: "TODO"               # Copy your 'evaluate' Learning Objective here (see below)
   ms.date: {{msDate}}               # Date of commit to GitHub (do not use target publication date, cannot be in the future)
   author: {{githubUsername}}        # GitHub ID of the Microsoft employee either authoring or project-managing this content
@@ -24,8 +23,7 @@ metadata:
 ###
 ### Do not edit: title must be "Introduction to (product)"
 ###
-title: |
-  {{moduleTitle}}
+title: ${{moduleTitle}}
 ###########################################################################
 ###
 ### Summary
@@ -146,5 +144,4 @@ units: # stub based on prefix, module folder, and unit names
 ### TODO verify your badge
 ###
 badge:
-  uid: |
-    {{learnRepo}}.{{moduleName}}.badge
+  uid: ${{learnRepo}}.{{moduleName}}.badge
