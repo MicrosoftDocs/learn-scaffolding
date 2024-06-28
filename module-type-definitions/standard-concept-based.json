@@ -7,54 +7,54 @@
       "type": "introduction",
       "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
       "contentTemplatePath": "..\\content-templates\\standard-concept-based\\introduction.md",
-      "scaffoldFilename": "introduction",
+      "scaffoldFilename": "1-introduction",
       "unitTitleTemplate": "Introduction"
     },
     {
       "type": "knowledge-check",
       "moduleUnitTemplatePath": "..\\content-templates\\standard-concept-based\\pretest.yml",
-      "scaffoldFilename": "pretest",
+      "scaffoldFilename": "2-pretest",
       "unitTitleTemplate": "Pretest"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\standard-concept-based\\unit.yml",
       "contentTemplatePath": "..\\content-templates\\standard-concept-based\\learning-content.md",
-      "scaffoldFilename": "{first-concept}",
+      "scaffoldFilename": "3-{first-concept}",
       "unitTitleTemplate": "{first-concept}"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\standard-concept-based\\unit.yml",
       "contentTemplatePath": "..\\content-templates\\standard-concept-based\\learning-content.md",
-      "scaffoldFilename": "{second-concept}",
+      "scaffoldFilename": "4-{second-concept}",
       "unitTitleTemplate": "{second-concept}"
     },
     {
       "type": "learning-content",
       "moduleUnitTemplatePath": "..\\content-templates\\standard-concept-based\\unit.yml",
       "contentTemplatePath": "..\\content-templates\\standard-concept-based\\learning-content.md",
-      "scaffoldFilename": "{last-concept}",
+      "scaffoldFilename": "5-{last-concept}",
       "unitTitleTemplate": "{last-concept}"
     },
     {
       "type": "exercise",
       "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
       "contentTemplatePath": "..\\content-templates\\standard-concept-based\\exercise.md",
-      "scaffoldFilename": "exercise",
+      "scaffoldFilename": "6-exercise",
       "unitTitleTemplate": "Enter exercise title"
     },
     {
       "type": "knowledge-check",
       "moduleUnitTemplatePath": "..\\content-templates\\default-units\\knowledge-check-unit.yml",
-      "scaffoldFilename": "knowledge-check",
+      "scaffoldFilename": "7-knowledge-check",
       "unitTitleTemplate": "Knowledge check"
     },
     {
       "type": "summary",
       "moduleUnitTemplatePath": "..\\content-templates\\default-units\\unit.yml",
       "contentTemplatePath": "..\\content-templates\\default-units\\summary.md",
-      "scaffoldFilename": "summary",
+      "scaffoldFilename": "8-summary",
       "unitTitleTemplate": "Summary"
     }
   ]
