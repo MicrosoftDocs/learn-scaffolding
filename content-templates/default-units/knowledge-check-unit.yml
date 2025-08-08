@@ -1,13 +1,14 @@
 ### YamlMime:ModuleUnit
 uid: ${{learnRepo}}.{{moduleName}}.{{unitName}}
-title: Knowledge check
+title: Module assessment
 metadata:
-  title: Knowledge check
+  title: Module assessment
   description: "TODO this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the unit; include relevant search keywords."
   ms.date: {{msDate}}
   author: {{githubUsername}}
   ms.author: {{msUser}}
   ms.topic: unit
+  module_assessment: true
 ###########################################################################
 ###
 ### If your content is related to a product or service, apply one value from
